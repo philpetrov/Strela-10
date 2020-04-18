@@ -1,0 +1,4670 @@
+fileFormatVersion: 2
+guid: 01be6dc2733ff4643a6a35df45e9f279
+timeCreated: 1442801914
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 HeadNub
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger01
+    100016: Bip001 L Finger02
+    100018: Bip001 L Finger0Nub
+    100020: Bip001 L Finger1
+    100022: Bip001 L Finger11
+    100024: Bip001 L Finger12
+    100026: Bip001 L Finger1Nub
+    100028: Bip001 L Finger2
+    100030: Bip001 L Finger21
+    100032: Bip001 L Finger22
+    100034: Bip001 L Finger2Nub
+    100036: Bip001 L Finger3
+    100038: Bip001 L Finger31
+    100040: Bip001 L Finger32
+    100042: Bip001 L Finger3Nub
+    100044: Bip001 L Finger4
+    100046: Bip001 L Finger41
+    100048: Bip001 L Finger42
+    100050: Bip001 L Finger4Nub
+    100052: Bip001 L Foot
+    100054: Bip001 L Forearm
+    100056: Bip001 L Hand
+    100058: Bip001 L Thigh
+    100060: Bip001 L Toe0
+    100062: Bip001 L Toe01
+    100064: Bip001 L Toe02
+    100066: Bip001 L Toe0Nub
+    100068: Bip001 L UpperArm
+    100070: Bip001 Neck
+    100072: Bip001 Pelvis
+    100074: Bip001 R Calf
+    100076: Bip001 R Clavicle
+    100078: Bip001 R Finger0
+    100080: Bip001 R Finger01
+    100082: Bip001 R Finger02
+    100084: Bip001 R Finger0Nub
+    100086: Bip001 R Finger1
+    100088: Bip001 R Finger11
+    100090: Bip001 R Finger12
+    100092: Bip001 R Finger1Nub
+    100094: Bip001 R Finger2
+    100096: Bip001 R Finger21
+    100098: Bip001 R Finger22
+    100100: Bip001 R Finger2Nub
+    100102: Bip001 R Finger3
+    100104: Bip001 R Finger31
+    100106: Bip001 R Finger32
+    100108: Bip001 R Finger3Nub
+    100110: Bip001 R Finger4
+    100112: Bip001 R Finger41
+    100114: Bip001 R Finger42
+    100116: Bip001 R Finger4Nub
+    100118: Bip001 R Foot
+    100120: Bip001 R Forearm
+    100122: Bip001 R Hand
+    100124: Bip001 R Thigh
+    100126: Bip001 R Toe0
+    100128: Bip001 R Toe01
+    100130: Bip001 R Toe02
+    100132: Bip001 R Toe0Nub
+    100134: Bip001 R UpperArm
+    100136: Bip001 Spine
+    100138: Bip001 Spine1
+    100140: Bip001 Spine2
+    100142: Bip001 Spine3
+    100144: Bip002
+    100146: Bip002 Footsteps
+    100148: Bip002 Head
+    100150: Bip002 HeadNub
+    100152: Bip002 L Calf
+    100154: Bip002 L Clavicle
+    100156: Bip002 L Finger0
+    100158: Bip002 L Finger01
+    100160: Bip002 L Finger02
+    100162: Bip002 L Finger0Nub
+    100164: Bip002 L Finger1
+    100166: Bip002 L Finger11
+    100168: Bip002 L Finger12
+    100170: Bip002 L Finger1Nub
+    100172: Bip002 L Finger2
+    100174: Bip002 L Finger21
+    100176: Bip002 L Finger22
+    100178: Bip002 L Finger2Nub
+    100180: Bip002 L Finger3
+    100182: Bip002 L Finger31
+    100184: Bip002 L Finger32
+    100186: Bip002 L Finger3Nub
+    100188: Bip002 L Finger4
+    100190: Bip002 L Finger41
+    100192: Bip002 L Finger42
+    100194: Bip002 L Finger4Nub
+    100196: Bip002 L Foot
+    100198: Bip002 L Forearm
+    100200: Bip002 L Hand
+    100202: Bip002 L Thigh
+    100204: Bip002 L Toe0
+    100206: Bip002 L Toe01
+    100208: Bip002 L Toe02
+    100210: Bip002 L Toe0Nub
+    100212: Bip002 L UpperArm
+    100214: Bip002 Neck
+    100216: Bip002 Pelvis
+    100218: Bip002 R Calf
+    100220: Bip002 R Clavicle
+    100222: Bip002 R Finger0
+    100224: Bip002 R Finger01
+    100226: Bip002 R Finger02
+    100228: Bip002 R Finger0Nub
+    100230: Bip002 R Finger1
+    100232: Bip002 R Finger11
+    100234: Bip002 R Finger12
+    100236: Bip002 R Finger1Nub
+    100238: Bip002 R Finger2
+    100240: Bip002 R Finger21
+    100242: Bip002 R Finger22
+    100244: Bip002 R Finger2Nub
+    100246: Bip002 R Finger3
+    100248: Bip002 R Finger31
+    100250: Bip002 R Finger32
+    100252: Bip002 R Finger3Nub
+    100254: Bip002 R Finger4
+    100256: Bip002 R Finger41
+    100258: Bip002 R Finger42
+    100260: Bip002 R Finger4Nub
+    100262: Bip002 R Foot
+    100264: Bip002 R Forearm
+    100266: Bip002 R Hand
+    100268: Bip002 R Thigh
+    100270: Bip002 R Toe0
+    100272: Bip002 R Toe01
+    100274: Bip002 R Toe02
+    100276: Bip002 R Toe0Nub
+    100278: Bip002 R UpperArm
+    100280: Bip002 Spine
+    100282: Bip002 Spine1
+    100284: Bip002 Spine2
+    100286: Bip002 Spine3
+    100288: Bip003
+    100290: Bip003 Footsteps
+    100292: Bip003 Head
+    100294: Bip003 HeadNub
+    100296: Bip003 L Calf
+    100298: Bip003 L Clavicle
+    100300: Bip003 L Finger0
+    100302: Bip003 L Finger01
+    100304: Bip003 L Finger02
+    100306: Bip003 L Finger0Nub
+    100308: Bip003 L Finger1
+    100310: Bip003 L Finger11
+    100312: Bip003 L Finger12
+    100314: Bip003 L Finger1Nub
+    100316: Bip003 L Finger2
+    100318: Bip003 L Finger21
+    100320: Bip003 L Finger22
+    100322: Bip003 L Finger2Nub
+    100324: Bip003 L Finger3
+    100326: Bip003 L Finger31
+    100328: Bip003 L Finger32
+    100330: Bip003 L Finger3Nub
+    100332: Bip003 L Finger4
+    100334: Bip003 L Finger41
+    100336: Bip003 L Finger42
+    100338: Bip003 L Finger4Nub
+    100340: Bip003 L Foot
+    100342: Bip003 L Forearm
+    100344: Bip003 L Hand
+    100346: Bip003 L Thigh
+    100348: Bip003 L Toe0
+    100350: Bip003 L Toe01
+    100352: Bip003 L Toe02
+    100354: Bip003 L Toe0Nub
+    100356: Bip003 L UpperArm
+    100358: Bip003 Neck
+    100360: Bip003 Pelvis
+    100362: Bip003 R Calf
+    100364: Bip003 R Clavicle
+    100366: Bip003 R Finger0
+    100368: Bip003 R Finger01
+    100370: Bip003 R Finger02
+    100372: Bip003 R Finger0Nub
+    100374: Bip003 R Finger1
+    100376: Bip003 R Finger11
+    100378: Bip003 R Finger12
+    100380: Bip003 R Finger1Nub
+    100382: Bip003 R Finger2
+    100384: Bip003 R Finger21
+    100386: Bip003 R Finger22
+    100388: Bip003 R Finger2Nub
+    100390: Bip003 R Finger3
+    100392: Bip003 R Finger31
+    100394: Bip003 R Finger32
+    100396: Bip003 R Finger3Nub
+    100398: Bip003 R Finger4
+    100400: Bip003 R Finger41
+    100402: Bip003 R Finger42
+    100404: Bip003 R Finger4Nub
+    100406: Bip003 R Foot
+    100408: Bip003 R Forearm
+    100410: Bip003 R Hand
+    100412: Bip003 R Thigh
+    100414: Bip003 R Toe0
+    100416: Bip003 R Toe01
+    100418: Bip003 R Toe02
+    100420: Bip003 R Toe0Nub
+    100422: Bip003 R UpperArm
+    100424: Bip003 Spine
+    100426: Bip003 Spine1
+    100428: Bip003 Spine2
+    100430: Bip003 Spine3
+    100432: Box001
+    100434: Box002
+    100436: Box003
+    100438: Box004
+    100440: Box005
+    100442: Box006
+    100444: Box007
+    100446: Box008
+    100448: Box009
+    100450: Box010
+    100452: Box011
+    100454: Box012
+    100456: Box013
+    100458: Box014
+    100460: Box016
+    100462: Box017
+    100464: Box018
+    100466: Box019
+    100468: Box020
+    100470: Cone001
+    100472: cube01
+    100474: cube02
+    100476: cube03
+    100478: cube04
+    100480: cube05
+    100482: cube06
+    100484: cube07
+    100486: cube08
+    100488: cube09
+    100490: cube10
+    100492: cube11
+    100494: cube12
+    100496: cube13
+    100498: cube14
+    100500: cube15
+    100502: cube16
+    100504: cube160
+    100506: cube161
+    100508: cube162
+    100510: cube163
+    100512: cube164
+    100514: cube165
+    100516: cube166
+    100518: cube167
+    100520: cube168
+    100522: cube169
+    100524: cube17
+    100526: cube170
+    100528: cube171
+    100530: cube172
+    100532: cube173
+    100534: cube174
+    100536: cube175
+    100538: cube176
+    100540: cube177
+    100542: cube178
+    100544: cube179
+    100546: cube18
+    100548: cube180
+    100550: cube181
+    100552: cube182
+    100554: cube183
+    100556: cube184
+    100558: cube185
+    100560: cube186
+    100562: cube187
+    100564: cube188
+    100566: cube189
+    100568: cube19
+    100570: cube190
+    100572: cube191
+    100574: cube192
+    100576: cube193
+    100578: cube194
+    100580: cube195
+    100582: cube196
+    100584: cube197
+    100586: cube198
+    100588: cube199
+    100590: cube20
+    100592: cube200
+    100594: cube201
+    100596: cube202
+    100598: cube203
+    100600: cube204
+    100602: cube205
+    100604: cube206
+    100606: cube207
+    100608: cube208
+    100610: cube209
+    100612: cube21
+    100614: cube210
+    100616: cube211
+    100618: cube212
+    100620: cube213
+    100622: cube214
+    100624: cube215
+    100626: cube216
+    100628: cube217
+    100630: cube218
+    100632: cube219
+    100634: cube22
+    100636: cube220
+    100638: cube221
+    100640: cube222
+    100642: cube223
+    100644: cube224
+    100646: cube225
+    100648: cube226
+    100650: cube227
+    100652: cube228
+    100654: cube229
+    100656: cube23
+    100658: cube230
+    100660: cube231
+    100662: cube232
+    100664: cube233
+    100666: cube234
+    100668: cube235
+    100670: cube236
+    100672: cube237
+    100674: cube238
+    100676: cube239
+    100678: cube24
+    100680: cube240
+    100682: cube241
+    100684: cube242
+    100686: cube243
+    100688: cube244
+    100690: cube245
+    100692: cube246
+    100694: cube247
+    100696: cube248
+    100698: cube249
+    100700: cube25
+    100702: cube250
+    100704: cube251
+    100706: cube252
+    100708: cube253
+    100710: cube254
+    100712: cube255
+    100714: cube256
+    100716: cube257
+    100718: cube258
+    100720: cube259
+    100722: cube26
+    100724: cube260
+    100726: cube261
+    100728: cube262
+    100730: cube263
+    100732: cube264
+    100734: cube265
+    100736: cube266
+    100738: cube267
+    100740: cube268
+    100742: cube269
+    100744: cube27
+    100746: cube270
+    100748: cube271
+    100750: cube272
+    100752: cube273
+    100754: cube274
+    100756: cube275
+    100758: cube276
+    100760: cube277
+    100762: cube278
+    100764: cube279
+    100766: cube28
+    100768: cube280
+    100770: cube281
+    100772: cube282
+    100774: cube283
+    100776: cube284
+    100778: cube285
+    100780: cube286
+    100782: cube287
+    100784: cube288
+    100786: cube289
+    100788: cube29
+    100790: cube290
+    100792: cube291
+    100794: cube292
+    100796: cube293
+    100798: cube294
+    100800: cube295
+    100802: cube296
+    100804: cube297
+    100806: cube298
+    100808: cube299
+    100810: cube30
+    100812: cube300
+    100814: cube301
+    100816: cube302
+    100818: cube303
+    100820: cube304
+    100822: cube305
+    100824: cube306
+    100826: cube307
+    100828: cube308
+    100830: cube309
+    100832: cube31
+    100834: cube310
+    100836: cube311
+    100838: cube312
+    100840: cube313
+    100842: cube314
+    100844: cube315
+    100846: cube316
+    100848: cube317
+    100850: cube318
+    100852: cube32
+    100854: cube321
+    100856: cube322
+    100858: cube323
+    100860: cube324
+    100862: cube325
+    100864: cube326
+    100866: cube327
+    100868: cube328
+    100870: cube329
+    100872: cube33
+    100874: cube330
+    100876: cube331
+    100878: cube332
+    100880: cube333
+    100882: cube334
+    100884: cube335
+    100886: cube336
+    100888: cube337
+    100890: cube338
+    100892: cube339
+    100894: cube34
+    100896: cube340
+    100898: cube341
+    100900: cube342
+    100902: cube343
+    100904: cube344
+    100906: cube345
+    100908: cube346
+    100910: cube347
+    100912: cube348
+    100914: cube349
+    100916: cube35
+    100918: cube350
+    100920: cube351
+    100922: cube36
+    100924: cube37
+    100926: cube38
+    100928: cube39
+    100930: cube40
+    100932: cube41
+    100934: cube42
+    100936: cube426
+    100938: cube427
+    100940: cube428
+    100942: cube429
+    100944: cube43
+    100946: cube431
+    100948: cube432
+    100950: cube433
+    100952: cube434
+    100954: cube436
+    100956: cube437
+    100958: cube438
+    100960: cube439
+    100962: cube44
+    100964: cube441
+    100966: cube442
+    100968: cube443
+    100970: cube444
+    100972: cube446
+    100974: cube447
+    100976: cube448
+    100978: cube449
+    100980: cube45
+    100982: cube450
+    100984: cube451
+    100986: cube452
+    100988: cube453
+    100990: cube46
+    100992: cube47
+    100994: cube48
+    100996: cube49
+    100998: cube50
+    101000: cube51
+    101002: cube52
+    101004: cube53
+    101006: cube54
+    101008: cube55
+    101010: cube56
+    101012: cube57
+    101014: cube58
+    101016: cube59
+    101018: cube60
+    101020: cube64
+    101022: cube65
+    101024: cube66
+    101026: cube67
+    101028: cube68
+    101030: cube69
+    101032: cube73
+    101034: Cylinder001
+    101036: Cylinder002
+    101038: Cylinder007
+    101040: Cylinder008
+    101042: Cylinder009
+    101044: Cylinder010
+    101046: Cylinder011
+    101048: Cylinder012
+    101050: Cylinder013
+    101052: Cylinder014
+    101054: Cylinder015
+    101056: Cylinder016
+    101058: Cylinder017
+    101060: cylinder22
+    101062: cylinder23
+    101064: cylinder24
+    101066: cylinder25
+    101068: Donut001
+    101070: Donut002
+    101072: mesh01
+    101074: mesh02
+    101076: mesh03
+    101078: mesh04
+    101080: mesh05
+    101082: mesh06
+    101084: mesh07
+    101086: mesh08
+    101088: mesh081
+    101090: mesh082
+    101092: mesh083
+    101094: mesh084
+    101096: mesh085
+    101098: mesh086
+    101100: mesh09
+    101102: mesh10
+    101104: mesh11
+    101106: mesh12
+    101108: mesh13
+    101110: mesh14
+    101112: mesh15
+    101114: mesh16
+    101116: mesh17
+    101118: mesh20
+    101120: mesh22
+    101122: mesh23
+    101124: mesh24
+    101126: mesh25
+    101128: mesh26
+    101130: mesh27
+    101132: mesh28
+    101134: mesh29
+    101136: mesh30
+    101138: mesh31
+    101140: mesh32
+    101142: mesh33
+    101144: mesh34
+    101146: mesh35
+    101148: mesh36
+    101150: mesh39
+    101152: mesh40
+    101154: mesh41
+    101156: mesh42
+    101158: mesh43
+    101160: mesh44
+    101162: mesh45
+    101164: mesh46
+    101166: mesh47
+    101168: mesh48
+    101170: mesh49
+    101172: mesh50
+    101174: mesh52
+    101176: mesh53
+    101178: mesh54
+    101180: mesh55
+    101182: mesh56
+    101184: mesh57
+    101186: mesh58
+    101188: mesh59
+    101190: mesh60
+    101192: mesh61
+    101194: mesh62
+    101196: mesh63
+    101198: mesh64
+    101200: mesh65
+    101202: mesh66
+    101204: mesh67
+    101206: mesh68
+    101208: mesh69
+    101210: mesh70
+    101212: mesh71
+    101214: mesh72
+    101216: mesh73
+    101218: mesh74
+    101220: mesh75
+    101222: mesh76
+    101224: mesh77
+    101226: mesh78
+    101228: mesh79
+    101230: mesh80
+    101232: Object001
+    101234: Object003
+    101236: Object004
+    101238: Object005
+    101240: Object006
+    101242: subdivision01
+    101244: subdivision02
+    101246: subdivision03
+    101248: subdivision04
+    101250: subdivision05
+    101252: subdivision06
+    101254: subdivision07
+    101256: subdivision08
+    101258: subdivision09
+    101260: subdivision10
+    101262: subdivision11
+    101264: subdivision12
+    101266: subdivision13
+    101268: subdivision16
+    101270: subdivision17
+    101272: subdivision18
+    101274: subdivision19
+    101276: subdivision20
+    101278: subdivision21
+    101280: subdivision26
+    101282: subdivision27
+    101284: //RootNode
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 HeadNub
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger01
+    400016: Bip001 L Finger02
+    400018: Bip001 L Finger0Nub
+    400020: Bip001 L Finger1
+    400022: Bip001 L Finger11
+    400024: Bip001 L Finger12
+    400026: Bip001 L Finger1Nub
+    400028: Bip001 L Finger2
+    400030: Bip001 L Finger21
+    400032: Bip001 L Finger22
+    400034: Bip001 L Finger2Nub
+    400036: Bip001 L Finger3
+    400038: Bip001 L Finger31
+    400040: Bip001 L Finger32
+    400042: Bip001 L Finger3Nub
+    400044: Bip001 L Finger4
+    400046: Bip001 L Finger41
+    400048: Bip001 L Finger42
+    400050: Bip001 L Finger4Nub
+    400052: Bip001 L Foot
+    400054: Bip001 L Forearm
+    400056: Bip001 L Hand
+    400058: Bip001 L Thigh
+    400060: Bip001 L Toe0
+    400062: Bip001 L Toe01
+    400064: Bip001 L Toe02
+    400066: Bip001 L Toe0Nub
+    400068: Bip001 L UpperArm
+    400070: Bip001 Neck
+    400072: Bip001 Pelvis
+    400074: Bip001 R Calf
+    400076: Bip001 R Clavicle
+    400078: Bip001 R Finger0
+    400080: Bip001 R Finger01
+    400082: Bip001 R Finger02
+    400084: Bip001 R Finger0Nub
+    400086: Bip001 R Finger1
+    400088: Bip001 R Finger11
+    400090: Bip001 R Finger12
+    400092: Bip001 R Finger1Nub
+    400094: Bip001 R Finger2
+    400096: Bip001 R Finger21
+    400098: Bip001 R Finger22
+    400100: Bip001 R Finger2Nub
+    400102: Bip001 R Finger3
+    400104: Bip001 R Finger31
+    400106: Bip001 R Finger32
+    400108: Bip001 R Finger3Nub
+    400110: Bip001 R Finger4
+    400112: Bip001 R Finger41
+    400114: Bip001 R Finger42
+    400116: Bip001 R Finger4Nub
+    400118: Bip001 R Foot
+    400120: Bip001 R Forearm
+    400122: Bip001 R Hand
+    400124: Bip001 R Thigh
+    400126: Bip001 R Toe0
+    400128: Bip001 R Toe01
+    400130: Bip001 R Toe02
+    400132: Bip001 R Toe0Nub
+    400134: Bip001 R UpperArm
+    400136: Bip001 Spine
+    400138: Bip001 Spine1
+    400140: Bip001 Spine2
+    400142: Bip001 Spine3
+    400144: Bip002
+    400146: Bip002 Footsteps
+    400148: Bip002 Head
+    400150: Bip002 HeadNub
+    400152: Bip002 L Calf
+    400154: Bip002 L Clavicle
+    400156: Bip002 L Finger0
+    400158: Bip002 L Finger01
+    400160: Bip002 L Finger02
+    400162: Bip002 L Finger0Nub
+    400164: Bip002 L Finger1
+    400166: Bip002 L Finger11
+    400168: Bip002 L Finger12
+    400170: Bip002 L Finger1Nub
+    400172: Bip002 L Finger2
+    400174: Bip002 L Finger21
+    400176: Bip002 L Finger22
+    400178: Bip002 L Finger2Nub
+    400180: Bip002 L Finger3
+    400182: Bip002 L Finger31
+    400184: Bip002 L Finger32
+    400186: Bip002 L Finger3Nub
+    400188: Bip002 L Finger4
+    400190: Bip002 L Finger41
+    400192: Bip002 L Finger42
+    400194: Bip002 L Finger4Nub
+    400196: Bip002 L Foot
+    400198: Bip002 L Forearm
+    400200: Bip002 L Hand
+    400202: Bip002 L Thigh
+    400204: Bip002 L Toe0
+    400206: Bip002 L Toe01
+    400208: Bip002 L Toe02
+    400210: Bip002 L Toe0Nub
+    400212: Bip002 L UpperArm
+    400214: Bip002 Neck
+    400216: Bip002 Pelvis
+    400218: Bip002 R Calf
+    400220: Bip002 R Clavicle
+    400222: Bip002 R Finger0
+    400224: Bip002 R Finger01
+    400226: Bip002 R Finger02
+    400228: Bip002 R Finger0Nub
+    400230: Bip002 R Finger1
+    400232: Bip002 R Finger11
+    400234: Bip002 R Finger12
+    400236: Bip002 R Finger1Nub
+    400238: Bip002 R Finger2
+    400240: Bip002 R Finger21
+    400242: Bip002 R Finger22
+    400244: Bip002 R Finger2Nub
+    400246: Bip002 R Finger3
+    400248: Bip002 R Finger31
+    400250: Bip002 R Finger32
+    400252: Bip002 R Finger3Nub
+    400254: Bip002 R Finger4
+    400256: Bip002 R Finger41
+    400258: Bip002 R Finger42
+    400260: Bip002 R Finger4Nub
+    400262: Bip002 R Foot
+    400264: Bip002 R Forearm
+    400266: Bip002 R Hand
+    400268: Bip002 R Thigh
+    400270: Bip002 R Toe0
+    400272: Bip002 R Toe01
+    400274: Bip002 R Toe02
+    400276: Bip002 R Toe0Nub
+    400278: Bip002 R UpperArm
+    400280: Bip002 Spine
+    400282: Bip002 Spine1
+    400284: Bip002 Spine2
+    400286: Bip002 Spine3
+    400288: Bip003
+    400290: Bip003 Footsteps
+    400292: Bip003 Head
+    400294: Bip003 HeadNub
+    400296: Bip003 L Calf
+    400298: Bip003 L Clavicle
+    400300: Bip003 L Finger0
+    400302: Bip003 L Finger01
+    400304: Bip003 L Finger02
+    400306: Bip003 L Finger0Nub
+    400308: Bip003 L Finger1
+    400310: Bip003 L Finger11
+    400312: Bip003 L Finger12
+    400314: Bip003 L Finger1Nub
+    400316: Bip003 L Finger2
+    400318: Bip003 L Finger21
+    400320: Bip003 L Finger22
+    400322: Bip003 L Finger2Nub
+    400324: Bip003 L Finger3
+    400326: Bip003 L Finger31
+    400328: Bip003 L Finger32
+    400330: Bip003 L Finger3Nub
+    400332: Bip003 L Finger4
+    400334: Bip003 L Finger41
+    400336: Bip003 L Finger42
+    400338: Bip003 L Finger4Nub
+    400340: Bip003 L Foot
+    400342: Bip003 L Forearm
+    400344: Bip003 L Hand
+    400346: Bip003 L Thigh
+    400348: Bip003 L Toe0
+    400350: Bip003 L Toe01
+    400352: Bip003 L Toe02
+    400354: Bip003 L Toe0Nub
+    400356: Bip003 L UpperArm
+    400358: Bip003 Neck
+    400360: Bip003 Pelvis
+    400362: Bip003 R Calf
+    400364: Bip003 R Clavicle
+    400366: Bip003 R Finger0
+    400368: Bip003 R Finger01
+    400370: Bip003 R Finger02
+    400372: Bip003 R Finger0Nub
+    400374: Bip003 R Finger1
+    400376: Bip003 R Finger11
+    400378: Bip003 R Finger12
+    400380: Bip003 R Finger1Nub
+    400382: Bip003 R Finger2
+    400384: Bip003 R Finger21
+    400386: Bip003 R Finger22
+    400388: Bip003 R Finger2Nub
+    400390: Bip003 R Finger3
+    400392: Bip003 R Finger31
+    400394: Bip003 R Finger32
+    400396: Bip003 R Finger3Nub
+    400398: Bip003 R Finger4
+    400400: Bip003 R Finger41
+    400402: Bip003 R Finger42
+    400404: Bip003 R Finger4Nub
+    400406: Bip003 R Foot
+    400408: Bip003 R Forearm
+    400410: Bip003 R Hand
+    400412: Bip003 R Thigh
+    400414: Bip003 R Toe0
+    400416: Bip003 R Toe01
+    400418: Bip003 R Toe02
+    400420: Bip003 R Toe0Nub
+    400422: Bip003 R UpperArm
+    400424: Bip003 Spine
+    400426: Bip003 Spine1
+    400428: Bip003 Spine2
+    400430: Bip003 Spine3
+    400432: Box001
+    400434: Box002
+    400436: Box003
+    400438: Box004
+    400440: Box005
+    400442: Box006
+    400444: Box007
+    400446: Box008
+    400448: Box009
+    400450: Box010
+    400452: Box011
+    400454: Box012
+    400456: Box013
+    400458: Box014
+    400460: Box016
+    400462: Box017
+    400464: Box018
+    400466: Box019
+    400468: Box020
+    400470: Cone001
+    400472: cube01
+    400474: cube02
+    400476: cube03
+    400478: cube04
+    400480: cube05
+    400482: cube06
+    400484: cube07
+    400486: cube08
+    400488: cube09
+    400490: cube10
+    400492: cube11
+    400494: cube12
+    400496: cube13
+    400498: cube14
+    400500: cube15
+    400502: cube16
+    400504: cube160
+    400506: cube161
+    400508: cube162
+    400510: cube163
+    400512: cube164
+    400514: cube165
+    400516: cube166
+    400518: cube167
+    400520: cube168
+    400522: cube169
+    400524: cube17
+    400526: cube170
+    400528: cube171
+    400530: cube172
+    400532: cube173
+    400534: cube174
+    400536: cube175
+    400538: cube176
+    400540: cube177
+    400542: cube178
+    400544: cube179
+    400546: cube18
+    400548: cube180
+    400550: cube181
+    400552: cube182
+    400554: cube183
+    400556: cube184
+    400558: cube185
+    400560: cube186
+    400562: cube187
+    400564: cube188
+    400566: cube189
+    400568: cube19
+    400570: cube190
+    400572: cube191
+    400574: cube192
+    400576: cube193
+    400578: cube194
+    400580: cube195
+    400582: cube196
+    400584: cube197
+    400586: cube198
+    400588: cube199
+    400590: cube20
+    400592: cube200
+    400594: cube201
+    400596: cube202
+    400598: cube203
+    400600: cube204
+    400602: cube205
+    400604: cube206
+    400606: cube207
+    400608: cube208
+    400610: cube209
+    400612: cube21
+    400614: cube210
+    400616: cube211
+    400618: cube212
+    400620: cube213
+    400622: cube214
+    400624: cube215
+    400626: cube216
+    400628: cube217
+    400630: cube218
+    400632: cube219
+    400634: cube22
+    400636: cube220
+    400638: cube221
+    400640: cube222
+    400642: cube223
+    400644: cube224
+    400646: cube225
+    400648: cube226
+    400650: cube227
+    400652: cube228
+    400654: cube229
+    400656: cube23
+    400658: cube230
+    400660: cube231
+    400662: cube232
+    400664: cube233
+    400666: cube234
+    400668: cube235
+    400670: cube236
+    400672: cube237
+    400674: cube238
+    400676: cube239
+    400678: cube24
+    400680: cube240
+    400682: cube241
+    400684: cube242
+    400686: cube243
+    400688: cube244
+    400690: cube245
+    400692: cube246
+    400694: cube247
+    400696: cube248
+    400698: cube249
+    400700: cube25
+    400702: cube250
+    400704: cube251
+    400706: cube252
+    400708: cube253
+    400710: cube254
+    400712: cube255
+    400714: cube256
+    400716: cube257
+    400718: cube258
+    400720: cube259
+    400722: cube26
+    400724: cube260
+    400726: cube261
+    400728: cube262
+    400730: cube263
+    400732: cube264
+    400734: cube265
+    400736: cube266
+    400738: cube267
+    400740: cube268
+    400742: cube269
+    400744: cube27
+    400746: cube270
+    400748: cube271
+    400750: cube272
+    400752: cube273
+    400754: cube274
+    400756: cube275
+    400758: cube276
+    400760: cube277
+    400762: cube278
+    400764: cube279
+    400766: cube28
+    400768: cube280
+    400770: cube281
+    400772: cube282
+    400774: cube283
+    400776: cube284
+    400778: cube285
+    400780: cube286
+    400782: cube287
+    400784: cube288
+    400786: cube289
+    400788: cube29
+    400790: cube290
+    400792: cube291
+    400794: cube292
+    400796: cube293
+    400798: cube294
+    400800: cube295
+    400802: cube296
+    400804: cube297
+    400806: cube298
+    400808: cube299
+    400810: cube30
+    400812: cube300
+    400814: cube301
+    400816: cube302
+    400818: cube303
+    400820: cube304
+    400822: cube305
+    400824: cube306
+    400826: cube307
+    400828: cube308
+    400830: cube309
+    400832: cube31
+    400834: cube310
+    400836: cube311
+    400838: cube312
+    400840: cube313
+    400842: cube314
+    400844: cube315
+    400846: cube316
+    400848: cube317
+    400850: cube318
+    400852: cube32
+    400854: cube321
+    400856: cube322
+    400858: cube323
+    400860: cube324
+    400862: cube325
+    400864: cube326
+    400866: cube327
+    400868: cube328
+    400870: cube329
+    400872: cube33
+    400874: cube330
+    400876: cube331
+    400878: cube332
+    400880: cube333
+    400882: cube334
+    400884: cube335
+    400886: cube336
+    400888: cube337
+    400890: cube338
+    400892: cube339
+    400894: cube34
+    400896: cube340
+    400898: cube341
+    400900: cube342
+    400902: cube343
+    400904: cube344
+    400906: cube345
+    400908: cube346
+    400910: cube347
+    400912: cube348
+    400914: cube349
+    400916: cube35
+    400918: cube350
+    400920: cube351
+    400922: cube36
+    400924: cube37
+    400926: cube38
+    400928: cube39
+    400930: cube40
+    400932: cube41
+    400934: cube42
+    400936: cube426
+    400938: cube427
+    400940: cube428
+    400942: cube429
+    400944: cube43
+    400946: cube431
+    400948: cube432
+    400950: cube433
+    400952: cube434
+    400954: cube436
+    400956: cube437
+    400958: cube438
+    400960: cube439
+    400962: cube44
+    400964: cube441
+    400966: cube442
+    400968: cube443
+    400970: cube444
+    400972: cube446
+    400974: cube447
+    400976: cube448
+    400978: cube449
+    400980: cube45
+    400982: cube450
+    400984: cube451
+    400986: cube452
+    400988: cube453
+    400990: cube46
+    400992: cube47
+    400994: cube48
+    400996: cube49
+    400998: cube50
+    401000: cube51
+    401002: cube52
+    401004: cube53
+    401006: cube54
+    401008: cube55
+    401010: cube56
+    401012: cube57
+    401014: cube58
+    401016: cube59
+    401018: cube60
+    401020: cube64
+    401022: cube65
+    401024: cube66
+    401026: cube67
+    401028: cube68
+    401030: cube69
+    401032: cube73
+    401034: Cylinder001
+    401036: Cylinder002
+    401038: Cylinder007
+    401040: Cylinder008
+    401042: Cylinder009
+    401044: Cylinder010
+    401046: Cylinder011
+    401048: Cylinder012
+    401050: Cylinder013
+    401052: Cylinder014
+    401054: Cylinder015
+    401056: Cylinder016
+    401058: Cylinder017
+    401060: cylinder22
+    401062: cylinder23
+    401064: cylinder24
+    401066: cylinder25
+    401068: Donut001
+    401070: Donut002
+    401072: mesh01
+    401074: mesh02
+    401076: mesh03
+    401078: mesh04
+    401080: mesh05
+    401082: mesh06
+    401084: mesh07
+    401086: mesh08
+    401088: mesh081
+    401090: mesh082
+    401092: mesh083
+    401094: mesh084
+    401096: mesh085
+    401098: mesh086
+    401100: mesh09
+    401102: mesh10
+    401104: mesh11
+    401106: mesh12
+    401108: mesh13
+    401110: mesh14
+    401112: mesh15
+    401114: mesh16
+    401116: mesh17
+    401118: mesh20
+    401120: mesh22
+    401122: mesh23
+    401124: mesh24
+    401126: mesh25
+    401128: mesh26
+    401130: mesh27
+    401132: mesh28
+    401134: mesh29
+    401136: mesh30
+    401138: mesh31
+    401140: mesh32
+    401142: mesh33
+    401144: mesh34
+    401146: mesh35
+    401148: mesh36
+    401150: mesh39
+    401152: mesh40
+    401154: mesh41
+    401156: mesh42
+    401158: mesh43
+    401160: mesh44
+    401162: mesh45
+    401164: mesh46
+    401166: mesh47
+    401168: mesh48
+    401170: mesh49
+    401172: mesh50
+    401174: mesh52
+    401176: mesh53
+    401178: mesh54
+    401180: mesh55
+    401182: mesh56
+    401184: mesh57
+    401186: mesh58
+    401188: mesh59
+    401190: mesh60
+    401192: mesh61
+    401194: mesh62
+    401196: mesh63
+    401198: mesh64
+    401200: mesh65
+    401202: mesh66
+    401204: mesh67
+    401206: mesh68
+    401208: mesh69
+    401210: mesh70
+    401212: mesh71
+    401214: mesh72
+    401216: mesh73
+    401218: mesh74
+    401220: mesh75
+    401222: mesh76
+    401224: mesh77
+    401226: mesh78
+    401228: mesh79
+    401230: mesh80
+    401232: Object001
+    401234: Object003
+    401236: Object004
+    401238: Object005
+    401240: Object006
+    401242: subdivision01
+    401244: subdivision02
+    401246: subdivision03
+    401248: subdivision04
+    401250: subdivision05
+    401252: subdivision06
+    401254: subdivision07
+    401256: subdivision08
+    401258: subdivision09
+    401260: subdivision10
+    401262: subdivision11
+    401264: subdivision12
+    401266: subdivision13
+    401268: subdivision16
+    401270: subdivision17
+    401272: subdivision18
+    401274: subdivision19
+    401276: subdivision20
+    401278: subdivision21
+    401280: subdivision26
+    401282: subdivision27
+    401284: //RootNode
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box006
+    2300012: Box007
+    2300014: Box008
+    2300016: Box009
+    2300018: Box010
+    2300020: Box011
+    2300022: Box012
+    2300024: Box013
+    2300026: Box014
+    2300028: Box016
+    2300030: Box017
+    2300032: Box018
+    2300034: Box019
+    2300036: Box020
+    2300038: Cone001
+    2300040: cube01
+    2300042: cube02
+    2300044: cube03
+    2300046: cube04
+    2300048: cube05
+    2300050: cube06
+    2300052: cube07
+    2300054: cube08
+    2300056: cube09
+    2300058: cube10
+    2300060: cube11
+    2300062: cube12
+    2300064: cube13
+    2300066: cube14
+    2300068: cube15
+    2300070: cube16
+    2300072: cube160
+    2300074: cube161
+    2300076: cube162
+    2300078: cube163
+    2300080: cube164
+    2300082: cube165
+    2300084: cube166
+    2300086: cube167
+    2300088: cube168
+    2300090: cube169
+    2300092: cube17
+    2300094: cube170
+    2300096: cube171
+    2300098: cube172
+    2300100: cube173
+    2300102: cube174
+    2300104: cube175
+    2300106: cube176
+    2300108: cube177
+    2300110: cube178
+    2300112: cube179
+    2300114: cube18
+    2300116: cube180
+    2300118: cube181
+    2300120: cube182
+    2300122: cube183
+    2300124: cube184
+    2300126: cube185
+    2300128: cube186
+    2300130: cube187
+    2300132: cube188
+    2300134: cube189
+    2300136: cube19
+    2300138: cube190
+    2300140: cube191
+    2300142: cube192
+    2300144: cube193
+    2300146: cube194
+    2300148: cube195
+    2300150: cube196
+    2300152: cube197
+    2300154: cube198
+    2300156: cube199
+    2300158: cube20
+    2300160: cube200
+    2300162: cube201
+    2300164: cube202
+    2300166: cube203
+    2300168: cube204
+    2300170: cube205
+    2300172: cube206
+    2300174: cube207
+    2300176: cube208
+    2300178: cube209
+    2300180: cube21
+    2300182: cube210
+    2300184: cube211
+    2300186: cube212
+    2300188: cube213
+    2300190: cube214
+    2300192: cube215
+    2300194: cube216
+    2300196: cube217
+    2300198: cube218
+    2300200: cube219
+    2300202: cube22
+    2300204: cube220
+    2300206: cube221
+    2300208: cube222
+    2300210: cube223
+    2300212: cube224
+    2300214: cube225
+    2300216: cube226
+    2300218: cube227
+    2300220: cube228
+    2300222: cube229
+    2300224: cube23
+    2300226: cube230
+    2300228: cube231
+    2300230: cube232
+    2300232: cube233
+    2300234: cube234
+    2300236: cube235
+    2300238: cube236
+    2300240: cube237
+    2300242: cube238
+    2300244: cube239
+    2300246: cube24
+    2300248: cube240
+    2300250: cube241
+    2300252: cube242
+    2300254: cube243
+    2300256: cube244
+    2300258: cube245
+    2300260: cube246
+    2300262: cube247
+    2300264: cube248
+    2300266: cube249
+    2300268: cube25
+    2300270: cube250
+    2300272: cube251
+    2300274: cube252
+    2300276: cube253
+    2300278: cube254
+    2300280: cube255
+    2300282: cube256
+    2300284: cube257
+    2300286: cube258
+    2300288: cube259
+    2300290: cube26
+    2300292: cube260
+    2300294: cube261
+    2300296: cube262
+    2300298: cube263
+    2300300: cube264
+    2300302: cube265
+    2300304: cube266
+    2300306: cube267
+    2300308: cube268
+    2300310: cube269
+    2300312: cube27
+    2300314: cube270
+    2300316: cube271
+    2300318: cube272
+    2300320: cube273
+    2300322: cube274
+    2300324: cube275
+    2300326: cube276
+    2300328: cube277
+    2300330: cube278
+    2300332: cube279
+    2300334: cube28
+    2300336: cube280
+    2300338: cube281
+    2300340: cube282
+    2300342: cube283
+    2300344: cube284
+    2300346: cube285
+    2300348: cube286
+    2300350: cube287
+    2300352: cube288
+    2300354: cube289
+    2300356: cube29
+    2300358: cube290
+    2300360: cube291
+    2300362: cube292
+    2300364: cube293
+    2300366: cube294
+    2300368: cube295
+    2300370: cube296
+    2300372: cube297
+    2300374: cube298
+    2300376: cube299
+    2300378: cube30
+    2300380: cube300
+    2300382: cube301
+    2300384: cube302
+    2300386: cube303
+    2300388: cube304
+    2300390: cube305
+    2300392: cube306
+    2300394: cube307
+    2300396: cube308
+    2300398: cube309
+    2300400: cube31
+    2300402: cube310
+    2300404: cube311
+    2300406: cube312
+    2300408: cube313
+    2300410: cube314
+    2300412: cube315
+    2300414: cube316
+    2300416: cube317
+    2300418: cube318
+    2300420: cube32
+    2300422: cube321
+    2300424: cube322
+    2300426: cube323
+    2300428: cube324
+    2300430: cube325
+    2300432: cube326
+    2300434: cube327
+    2300436: cube328
+    2300438: cube329
+    2300440: cube33
+    2300442: cube330
+    2300444: cube331
+    2300446: cube332
+    2300448: cube333
+    2300450: cube334
+    2300452: cube335
+    2300454: cube336
+    2300456: cube337
+    2300458: cube338
+    2300460: cube339
+    2300462: cube34
+    2300464: cube340
+    2300466: cube341
+    2300468: cube342
+    2300470: cube343
+    2300472: cube344
+    2300474: cube345
+    2300476: cube346
+    2300478: cube347
+    2300480: cube348
+    2300482: cube349
+    2300484: cube35
+    2300486: cube350
+    2300488: cube351
+    2300490: cube36
+    2300492: cube37
+    2300494: cube38
+    2300496: cube39
+    2300498: cube40
+    2300500: cube41
+    2300502: cube42
+    2300504: cube426
+    2300506: cube427
+    2300508: cube428
+    2300510: cube429
+    2300512: cube43
+    2300514: cube431
+    2300516: cube432
+    2300518: cube433
+    2300520: cube434
+    2300522: cube436
+    2300524: cube437
+    2300526: cube438
+    2300528: cube439
+    2300530: cube44
+    2300532: cube441
+    2300534: cube442
+    2300536: cube443
+    2300538: cube444
+    2300540: cube446
+    2300542: cube447
+    2300544: cube448
+    2300546: cube449
+    2300548: cube45
+    2300550: cube450
+    2300552: cube451
+    2300554: cube452
+    2300556: cube453
+    2300558: cube46
+    2300560: cube47
+    2300562: cube48
+    2300564: cube49
+    2300566: cube50
+    2300568: cube51
+    2300570: cube52
+    2300572: cube53
+    2300574: cube54
+    2300576: cube55
+    2300578: cube56
+    2300580: cube57
+    2300582: cube58
+    2300584: cube59
+    2300586: cube60
+    2300588: cube64
+    2300590: cube65
+    2300592: cube66
+    2300594: cube67
+    2300596: cube68
+    2300598: cube69
+    2300600: cube73
+    2300602: Cylinder001
+    2300604: Cylinder002
+    2300606: Cylinder007
+    2300608: Cylinder008
+    2300610: Cylinder009
+    2300612: Cylinder010
+    2300614: Cylinder011
+    2300616: Cylinder012
+    2300618: Cylinder013
+    2300620: Cylinder014
+    2300622: Cylinder015
+    2300624: Cylinder016
+    2300626: Cylinder017
+    2300628: cylinder22
+    2300630: cylinder23
+    2300632: cylinder24
+    2300634: cylinder25
+    2300636: mesh01
+    2300638: mesh02
+    2300640: mesh03
+    2300642: mesh04
+    2300644: mesh05
+    2300646: mesh06
+    2300648: mesh07
+    2300650: mesh08
+    2300652: mesh081
+    2300654: mesh082
+    2300656: mesh083
+    2300658: mesh084
+    2300660: mesh086
+    2300662: mesh09
+    2300664: mesh10
+    2300666: mesh11
+    2300668: mesh12
+    2300670: mesh13
+    2300672: mesh14
+    2300674: mesh15
+    2300676: mesh16
+    2300678: mesh17
+    2300680: mesh20
+    2300682: mesh22
+    2300684: mesh23
+    2300686: mesh24
+    2300688: mesh25
+    2300690: mesh26
+    2300692: mesh27
+    2300694: mesh28
+    2300696: mesh29
+    2300698: mesh30
+    2300700: mesh31
+    2300702: mesh32
+    2300704: mesh33
+    2300706: mesh34
+    2300708: mesh35
+    2300710: mesh36
+    2300712: mesh39
+    2300714: mesh40
+    2300716: mesh41
+    2300718: mesh42
+    2300720: mesh43
+    2300722: mesh44
+    2300724: mesh45
+    2300726: mesh46
+    2300728: mesh47
+    2300730: mesh48
+    2300732: mesh49
+    2300734: mesh50
+    2300736: mesh52
+    2300738: mesh53
+    2300740: mesh54
+    2300742: mesh55
+    2300744: mesh56
+    2300746: mesh57
+    2300748: mesh58
+    2300750: mesh59
+    2300752: mesh60
+    2300754: mesh61
+    2300756: mesh62
+    2300758: mesh63
+    2300760: mesh64
+    2300762: mesh65
+    2300764: mesh66
+    2300766: mesh67
+    2300768: mesh68
+    2300770: mesh69
+    2300772: mesh70
+    2300774: mesh71
+    2300776: mesh72
+    2300778: mesh73
+    2300780: mesh74
+    2300782: mesh75
+    2300784: mesh76
+    2300786: mesh77
+    2300788: mesh78
+    2300790: mesh79
+    2300792: mesh80
+    2300794: Object001
+    2300796: Object006
+    2300798: subdivision01
+    2300800: subdivision02
+    2300802: subdivision03
+    2300804: subdivision04
+    2300806: subdivision05
+    2300808: subdivision06
+    2300810: subdivision07
+    2300812: subdivision08
+    2300814: subdivision09
+    2300816: subdivision10
+    2300818: subdivision11
+    2300820: subdivision12
+    2300822: subdivision13
+    2300824: subdivision16
+    2300826: subdivision17
+    2300828: subdivision18
+    2300830: subdivision19
+    2300832: subdivision20
+    2300834: subdivision21
+    2300836: subdivision26
+    2300838: subdivision27
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box006
+    3300012: Box007
+    3300014: Box008
+    3300016: Box009
+    3300018: Box010
+    3300020: Box011
+    3300022: Box012
+    3300024: Box013
+    3300026: Box014
+    3300028: Box016
+    3300030: Box017
+    3300032: Box018
+    3300034: Box019
+    3300036: Box020
+    3300038: Cone001
+    3300040: cube01
+    3300042: cube02
+    3300044: cube03
+    3300046: cube04
+    3300048: cube05
+    3300050: cube06
+    3300052: cube07
+    3300054: cube08
+    3300056: cube09
+    3300058: cube10
+    3300060: cube11
+    3300062: cube12
+    3300064: cube13
+    3300066: cube14
+    3300068: cube15
+    3300070: cube16
+    3300072: cube160
+    3300074: cube161
+    3300076: cube162
+    3300078: cube163
+    3300080: cube164
+    3300082: cube165
+    3300084: cube166
+    3300086: cube167
+    3300088: cube168
+    3300090: cube169
+    3300092: cube17
+    3300094: cube170
+    3300096: cube171
+    3300098: cube172
+    3300100: cube173
+    3300102: cube174
+    3300104: cube175
+    3300106: cube176
+    3300108: cube177
+    3300110: cube178
+    3300112: cube179
+    3300114: cube18
+    3300116: cube180
+    3300118: cube181
+    3300120: cube182
+    3300122: cube183
+    3300124: cube184
+    3300126: cube185
+    3300128: cube186
+    3300130: cube187
+    3300132: cube188
+    3300134: cube189
+    3300136: cube19
+    3300138: cube190
+    3300140: cube191
+    3300142: cube192
+    3300144: cube193
+    3300146: cube194
+    3300148: cube195
+    3300150: cube196
+    3300152: cube197
+    3300154: cube198
+    3300156: cube199
+    3300158: cube20
+    3300160: cube200
+    3300162: cube201
+    3300164: cube202
+    3300166: cube203
+    3300168: cube204
+    3300170: cube205
+    3300172: cube206
+    3300174: cube207
+    3300176: cube208
+    3300178: cube209
+    3300180: cube21
+    3300182: cube210
+    3300184: cube211
+    3300186: cube212
+    3300188: cube213
+    3300190: cube214
+    3300192: cube215
+    3300194: cube216
+    3300196: cube217
+    3300198: cube218
+    3300200: cube219
+    3300202: cube22
+    3300204: cube220
+    3300206: cube221
+    3300208: cube222
+    3300210: cube223
+    3300212: cube224
+    3300214: cube225
+    3300216: cube226
+    3300218: cube227
+    3300220: cube228
+    3300222: cube229
+    3300224: cube23
+    3300226: cube230
+    3300228: cube231
+    3300230: cube232
+    3300232: cube233
+    3300234: cube234
+    3300236: cube235
+    3300238: cube236
+    3300240: cube237
+    3300242: cube238
+    3300244: cube239
+    3300246: cube24
+    3300248: cube240
+    3300250: cube241
+    3300252: cube242
+    3300254: cube243
+    3300256: cube244
+    3300258: cube245
+    3300260: cube246
+    3300262: cube247
+    3300264: cube248
+    3300266: cube249
+    3300268: cube25
+    3300270: cube250
+    3300272: cube251
+    3300274: cube252
+    3300276: cube253
+    3300278: cube254
+    3300280: cube255
+    3300282: cube256
+    3300284: cube257
+    3300286: cube258
+    3300288: cube259
+    3300290: cube26
+    3300292: cube260
+    3300294: cube261
+    3300296: cube262
+    3300298: cube263
+    3300300: cube264
+    3300302: cube265
+    3300304: cube266
+    3300306: cube267
+    3300308: cube268
+    3300310: cube269
+    3300312: cube27
+    3300314: cube270
+    3300316: cube271
+    3300318: cube272
+    3300320: cube273
+    3300322: cube274
+    3300324: cube275
+    3300326: cube276
+    3300328: cube277
+    3300330: cube278
+    3300332: cube279
+    3300334: cube28
+    3300336: cube280
+    3300338: cube281
+    3300340: cube282
+    3300342: cube283
+    3300344: cube284
+    3300346: cube285
+    3300348: cube286
+    3300350: cube287
+    3300352: cube288
+    3300354: cube289
+    3300356: cube29
+    3300358: cube290
+    3300360: cube291
+    3300362: cube292
+    3300364: cube293
+    3300366: cube294
+    3300368: cube295
+    3300370: cube296
+    3300372: cube297
+    3300374: cube298
+    3300376: cube299
+    3300378: cube30
+    3300380: cube300
+    3300382: cube301
+    3300384: cube302
+    3300386: cube303
+    3300388: cube304
+    3300390: cube305
+    3300392: cube306
+    3300394: cube307
+    3300396: cube308
+    3300398: cube309
+    3300400: cube31
+    3300402: cube310
+    3300404: cube311
+    3300406: cube312
+    3300408: cube313
+    3300410: cube314
+    3300412: cube315
+    3300414: cube316
+    3300416: cube317
+    3300418: cube318
+    3300420: cube32
+    3300422: cube321
+    3300424: cube322
+    3300426: cube323
+    3300428: cube324
+    3300430: cube325
+    3300432: cube326
+    3300434: cube327
+    3300436: cube328
+    3300438: cube329
+    3300440: cube33
+    3300442: cube330
+    3300444: cube331
+    3300446: cube332
+    3300448: cube333
+    3300450: cube334
+    3300452: cube335
+    3300454: cube336
+    3300456: cube337
+    3300458: cube338
+    3300460: cube339
+    3300462: cube34
+    3300464: cube340
+    3300466: cube341
+    3300468: cube342
+    3300470: cube343
+    3300472: cube344
+    3300474: cube345
+    3300476: cube346
+    3300478: cube347
+    3300480: cube348
+    3300482: cube349
+    3300484: cube35
+    3300486: cube350
+    3300488: cube351
+    3300490: cube36
+    3300492: cube37
+    3300494: cube38
+    3300496: cube39
+    3300498: cube40
+    3300500: cube41
+    3300502: cube42
+    3300504: cube426
+    3300506: cube427
+    3300508: cube428
+    3300510: cube429
+    3300512: cube43
+    3300514: cube431
+    3300516: cube432
+    3300518: cube433
+    3300520: cube434
+    3300522: cube436
+    3300524: cube437
+    3300526: cube438
+    3300528: cube439
+    3300530: cube44
+    3300532: cube441
+    3300534: cube442
+    3300536: cube443
+    3300538: cube444
+    3300540: cube446
+    3300542: cube447
+    3300544: cube448
+    3300546: cube449
+    3300548: cube45
+    3300550: cube450
+    3300552: cube451
+    3300554: cube452
+    3300556: cube453
+    3300558: cube46
+    3300560: cube47
+    3300562: cube48
+    3300564: cube49
+    3300566: cube50
+    3300568: cube51
+    3300570: cube52
+    3300572: cube53
+    3300574: cube54
+    3300576: cube55
+    3300578: cube56
+    3300580: cube57
+    3300582: cube58
+    3300584: cube59
+    3300586: cube60
+    3300588: cube64
+    3300590: cube65
+    3300592: cube66
+    3300594: cube67
+    3300596: cube68
+    3300598: cube69
+    3300600: cube73
+    3300602: Cylinder001
+    3300604: Cylinder002
+    3300606: Cylinder007
+    3300608: Cylinder008
+    3300610: Cylinder009
+    3300612: Cylinder010
+    3300614: Cylinder011
+    3300616: Cylinder012
+    3300618: Cylinder013
+    3300620: Cylinder014
+    3300622: Cylinder015
+    3300624: Cylinder016
+    3300626: Cylinder017
+    3300628: cylinder22
+    3300630: cylinder23
+    3300632: cylinder24
+    3300634: cylinder25
+    3300636: mesh01
+    3300638: mesh02
+    3300640: mesh03
+    3300642: mesh04
+    3300644: mesh05
+    3300646: mesh06
+    3300648: mesh07
+    3300650: mesh08
+    3300652: mesh081
+    3300654: mesh082
+    3300656: mesh083
+    3300658: mesh084
+    3300660: mesh086
+    3300662: mesh09
+    3300664: mesh10
+    3300666: mesh11
+    3300668: mesh12
+    3300670: mesh13
+    3300672: mesh14
+    3300674: mesh15
+    3300676: mesh16
+    3300678: mesh17
+    3300680: mesh20
+    3300682: mesh22
+    3300684: mesh23
+    3300686: mesh24
+    3300688: mesh25
+    3300690: mesh26
+    3300692: mesh27
+    3300694: mesh28
+    3300696: mesh29
+    3300698: mesh30
+    3300700: mesh31
+    3300702: mesh32
+    3300704: mesh33
+    3300706: mesh34
+    3300708: mesh35
+    3300710: mesh36
+    3300712: mesh39
+    3300714: mesh40
+    3300716: mesh41
+    3300718: mesh42
+    3300720: mesh43
+    3300722: mesh44
+    3300724: mesh45
+    3300726: mesh46
+    3300728: mesh47
+    3300730: mesh48
+    3300732: mesh49
+    3300734: mesh50
+    3300736: mesh52
+    3300738: mesh53
+    3300740: mesh54
+    3300742: mesh55
+    3300744: mesh56
+    3300746: mesh57
+    3300748: mesh58
+    3300750: mesh59
+    3300752: mesh60
+    3300754: mesh61
+    3300756: mesh62
+    3300758: mesh63
+    3300760: mesh64
+    3300762: mesh65
+    3300764: mesh66
+    3300766: mesh67
+    3300768: mesh68
+    3300770: mesh69
+    3300772: mesh70
+    3300774: mesh71
+    3300776: mesh72
+    3300778: mesh73
+    3300780: mesh74
+    3300782: mesh75
+    3300784: mesh76
+    3300786: mesh77
+    3300788: mesh78
+    3300790: mesh79
+    3300792: mesh80
+    3300794: Object001
+    3300796: Object006
+    3300798: subdivision01
+    3300800: subdivision02
+    3300802: subdivision03
+    3300804: subdivision04
+    3300806: subdivision05
+    3300808: subdivision06
+    3300810: subdivision07
+    3300812: subdivision08
+    3300814: subdivision09
+    3300816: subdivision10
+    3300818: subdivision11
+    3300820: subdivision12
+    3300822: subdivision13
+    3300824: subdivision16
+    3300826: subdivision17
+    3300828: subdivision18
+    3300830: subdivision19
+    3300832: subdivision20
+    3300834: subdivision21
+    3300836: subdivision26
+    3300838: subdivision27
+    4300000: Object003
+    4300002: mesh06
+    4300004: mesh09
+    4300006: mesh07
+    4300008: mesh08
+    4300010: subdivision18
+    4300012: subdivision19
+    4300014: subdivision20
+    4300016: subdivision21
+    4300018: mesh10
+    4300020: subdivision10
+    4300022: subdivision11
+    4300024: subdivision12
+    4300026: subdivision13
+    4300028: mesh04
+    4300030: subdivision06
+    4300032: subdivision07
+    4300034: subdivision08
+    4300036: subdivision09
+    4300038: mesh03
+    4300040: subdivision01
+    4300042: subdivision02
+    4300044: subdivision04
+    4300046: subdivision05
+    4300048: mesh02
+    4300050: mesh05
+    4300052: mesh39
+    4300054: subdivision03
+    4300056: mesh01
+    4300058: cube256
+    4300060: cube257
+    4300062: cube258
+    4300064: cube259
+    4300066: cube260
+    4300068: cube261
+    4300070: cube262
+    4300072: cube263
+    4300074: cube264
+    4300076: cube265
+    4300078: cube266
+    4300080: cube267
+    4300082: cube268
+    4300084: cube269
+    4300086: cube270
+    4300088: cube271
+    4300090: cube272
+    4300092: cube273
+    4300094: cube274
+    4300096: cube275
+    4300098: cube276
+    4300100: cube277
+    4300102: cube278
+    4300104: cube279
+    4300106: cube280
+    4300108: cube281
+    4300110: cube282
+    4300112: cube283
+    4300114: cube284
+    4300116: cube285
+    4300118: cube286
+    4300120: cube287
+    4300122: cube288
+    4300124: cube289
+    4300126: cube290
+    4300128: cube291
+    4300130: cube292
+    4300132: cube293
+    4300134: cube294
+    4300136: cube295
+    4300138: cube296
+    4300140: cube297
+    4300142: cube298
+    4300144: cube299
+    4300146: cube300
+    4300148: cube301
+    4300150: cube302
+    4300152: cube303
+    4300154: cube304
+    4300156: cube305
+    4300158: cube306
+    4300160: cube307
+    4300162: cube308
+    4300164: cube309
+    4300166: cube310
+    4300168: cube311
+    4300170: cube312
+    4300172: cube313
+    4300174: cube314
+    4300176: cube315
+    4300178: cube316
+    4300180: cube317
+    4300182: cube318
+    4300184: cube321
+    4300186: cube322
+    4300188: cube323
+    4300190: cube324
+    4300192: cube325
+    4300194: cube326
+    4300196: cube327
+    4300198: cube328
+    4300200: cube329
+    4300202: cube330
+    4300204: cube331
+    4300206: cube332
+    4300208: cube333
+    4300210: cube334
+    4300212: cube335
+    4300214: cube336
+    4300216: cube337
+    4300218: cube338
+    4300220: cube339
+    4300222: cube340
+    4300224: cube341
+    4300226: cube342
+    4300228: cube343
+    4300230: cube344
+    4300232: cube345
+    4300234: cube346
+    4300236: cube347
+    4300238: cube348
+    4300240: cube349
+    4300242: cube350
+    4300244: cube351
+    4300246: cube160
+    4300248: cube161
+    4300250: cube162
+    4300252: cube163
+    4300254: cube164
+    4300256: cube165
+    4300258: cube166
+    4300260: cube167
+    4300262: cube168
+    4300264: cube169
+    4300266: cube170
+    4300268: cube171
+    4300270: cube172
+    4300272: cube173
+    4300274: cube174
+    4300276: cube175
+    4300278: cube176
+    4300280: cube177
+    4300282: cube178
+    4300284: cube179
+    4300286: cube180
+    4300288: cube181
+    4300290: cube182
+    4300292: cube183
+    4300294: cube184
+    4300296: cube185
+    4300298: cube186
+    4300300: cube187
+    4300302: cube188
+    4300304: cube189
+    4300306: cube190
+    4300308: cube191
+    4300310: cube192
+    4300312: cube193
+    4300314: cube194
+    4300316: cube195
+    4300318: cube196
+    4300320: cube197
+    4300322: cube198
+    4300324: cube199
+    4300326: cube200
+    4300328: cube201
+    4300330: cube202
+    4300332: cube203
+    4300334: cube204
+    4300336: cube205
+    4300338: cube206
+    4300340: cube207
+    4300342: cube208
+    4300344: cube209
+    4300346: cube210
+    4300348: cube211
+    4300350: cube212
+    4300352: cube213
+    4300354: cube214
+    4300356: cube215
+    4300358: cube216
+    4300360: cube217
+    4300362: cube218
+    4300364: cube219
+    4300366: cube220
+    4300368: cube221
+    4300370: cube222
+    4300372: cube223
+    4300374: cube224
+    4300376: cube225
+    4300378: cube226
+    4300380: cube227
+    4300382: cube228
+    4300384: cube229
+    4300386: cube230
+    4300388: cube231
+    4300390: cube232
+    4300392: cube233
+    4300394: cube234
+    4300396: cube235
+    4300398: cube236
+    4300400: cube237
+    4300402: cube238
+    4300404: cube239
+    4300406: cube240
+    4300408: cube241
+    4300410: cube242
+    4300412: cube243
+    4300414: cube244
+    4300416: cube245
+    4300418: cube246
+    4300420: cube247
+    4300422: cube248
+    4300424: cube249
+    4300426: cube250
+    4300428: cube251
+    4300430: cube252
+    4300432: cube253
+    4300434: cube254
+    4300436: cube255
+    4300438: mesh20
+    4300440: mesh40
+    4300442: mesh41
+    4300444: mesh42
+    4300446: cube01
+    4300448: cube02
+    4300450: cube03
+    4300452: cube52
+    4300454: cube53
+    4300456: cube54
+    4300458: cube55
+    4300460: cube56
+    4300462: cube57
+    4300464: cube58
+    4300466: cube59
+    4300468: cube60
+    4300470: mesh47
+    4300472: cube28
+    4300474: mesh48
+    4300476: cube29
+    4300478: cube30
+    4300480: cube31
+    4300482: cube32
+    4300484: cube33
+    4300486: cube34
+    4300488: cube35
+    4300490: cube36
+    4300492: cube37
+    4300494: cube38
+    4300496: cube39
+    4300498: subdivision26
+    4300500: mesh49
+    4300502: cube40
+    4300504: mesh50
+    4300506: cube41
+    4300508: cube42
+    4300510: cube43
+    4300512: cube44
+    4300514: cube45
+    4300516: cube46
+    4300518: cube47
+    4300520: cube48
+    4300522: cube49
+    4300524: cube50
+    4300526: cube51
+    4300528: subdivision27
+    4300530: mesh43
+    4300532: cube04
+    4300534: mesh44
+    4300536: cube05
+    4300538: cube06
+    4300540: cube07
+    4300542: cube08
+    4300544: cube09
+    4300546: cube10
+    4300548: cube11
+    4300550: cube12
+    4300552: cube13
+    4300554: cube14
+    4300556: cube15
+    4300558: subdivision16
+    4300560: mesh45
+    4300562: cube16
+    4300564: mesh46
+    4300566: cube17
+    4300568: cube18
+    4300570: cube19
+    4300572: cube20
+    4300574: cube21
+    4300576: cube22
+    4300578: cube23
+    4300580: cube24
+    4300582: cube25
+    4300584: cube26
+    4300586: cube27
+    4300588: subdivision17
+    4300590: mesh52
+    4300592: mesh53
+    4300594: mesh54
+    4300596: mesh22
+    4300598: mesh23
+    4300600: mesh24
+    4300602: mesh25
+    4300604: mesh26
+    4300606: mesh27
+    4300608: mesh28
+    4300610: mesh29
+    4300612: mesh30
+    4300614: mesh31
+    4300616: mesh32
+    4300618: mesh33
+    4300620: mesh34
+    4300622: mesh35
+    4300624: mesh36
+    4300626: mesh57
+    4300628: mesh58
+    4300630: mesh59
+    4300632: mesh60
+    4300634: mesh61
+    4300636: mesh62
+    4300638: cube66
+    4300640: cube65
+    4300642: cube64
+    4300644: mesh63
+    4300646: mesh64
+    4300648: mesh11
+    4300650: mesh12
+    4300652: mesh13
+    4300654: mesh14
+    4300656: mesh15
+    4300658: mesh16
+    4300660: mesh65
+    4300662: mesh66
+    4300664: mesh67
+    4300666: mesh68
+    4300668: mesh69
+    4300670: mesh70
+    4300672: mesh71
+    4300674: mesh72
+    4300676: mesh73
+    4300678: mesh74
+    4300680: mesh75
+    4300682: mesh76
+    4300684: mesh17
+    4300686: mesh77
+    4300688: mesh78
+    4300690: cylinder22
+    4300692: cylinder23
+    4300694: cylinder24
+    4300696: cylinder25
+    4300698: mesh55
+    4300700: mesh56
+    4300702: cube67
+    4300704: cube68
+    4300706: cube69
+    4300708: mesh79
+    4300710: mesh80
+    4300712: cube73
+    4300714: mesh081
+    4300716: cube426
+    4300718: cube427
+    4300720: cube428
+    4300722: cube429
+    4300724: mesh082
+    4300726: cube431
+    4300728: cube432
+    4300730: cube433
+    4300732: cube434
+    4300734: mesh083
+    4300736: cube436
+    4300738: cube437
+    4300740: cube438
+    4300742: cube439
+    4300744: mesh084
+    4300746: cube441
+    4300748: cube442
+    4300750: cube443
+    4300752: cube444
+    4300754: Box001
+    4300756: Cylinder001
+    4300758: Cylinder002
+    4300760: Box002
+    4300762: cube446
+    4300764: cube447
+    4300766: Object001
+    4300768: cube448
+    4300770: cube449
+    4300772: cube450
+    4300774: Box003
+    4300776: Box004
+    4300778: Box005
+    4300780: Box006
+    4300782: Cylinder007
+    4300784: Cylinder008
+    4300786: Cylinder009
+    4300788: mesh086
+    4300790: Cylinder010
+    4300792: Cone001
+    4300794: Cylinder011
+    4300796: cube451
+    4300798: Cylinder012
+    4300800: Box007
+    4300802: Box008
+    4300804: Box009
+    4300806: Box010
+    4300808: Cylinder013
+    4300810: Box011
+    4300812: cube452
+    4300814: cube453
+    4300816: Box012
+    4300818: Box013
+    4300820: Box014
+    4300822: Box016
+    4300824: Box017
+    4300826: Box018
+    4300828: Box019
+    4300830: Box020
+    4300832: Object004
+    4300834: Object005
+    4300836: Object006
+    4300838: Cylinder014
+    4300840: Cylinder015
+    4300842: Cylinder016
+    4300844: Cylinder017
+    6400000: Box001
+    6400002: Box002
+    6400004: Box003
+    6400006: Box004
+    6400008: Box005
+    6400010: Box006
+    6400012: Box007
+    6400014: Box008
+    6400016: Box009
+    6400018: Box010
+    6400020: Box011
+    6400022: Box012
+    6400024: Box013
+    6400026: Box014
+    6400028: Box016
+    6400030: Box017
+    6400032: Box018
+    6400034: Box019
+    6400036: Box020
+    6400038: Cone001
+    6400040: cube01
+    6400042: cube02
+    6400044: cube03
+    6400046: cube04
+    6400048: cube05
+    6400050: cube06
+    6400052: cube07
+    6400054: cube08
+    6400056: cube09
+    6400058: cube10
+    6400060: cube11
+    6400062: cube12
+    6400064: cube13
+    6400066: cube14
+    6400068: cube15
+    6400070: cube16
+    6400072: cube160
+    6400074: cube161
+    6400076: cube162
+    6400078: cube163
+    6400080: cube164
+    6400082: cube165
+    6400084: cube166
+    6400086: cube167
+    6400088: cube168
+    6400090: cube169
+    6400092: cube17
+    6400094: cube170
+    6400096: cube171
+    6400098: cube172
+    6400100: cube173
+    6400102: cube174
+    6400104: cube175
+    6400106: cube176
+    6400108: cube177
+    6400110: cube178
+    6400112: cube179
+    6400114: cube18
+    6400116: cube180
+    6400118: cube181
+    6400120: cube182
+    6400122: cube183
+    6400124: cube184
+    6400126: cube185
+    6400128: cube186
+    6400130: cube187
+    6400132: cube188
+    6400134: cube189
+    6400136: cube19
+    6400138: cube190
+    6400140: cube191
+    6400142: cube192
+    6400144: cube193
+    6400146: cube194
+    6400148: cube195
+    6400150: cube196
+    6400152: cube197
+    6400154: cube198
+    6400156: cube199
+    6400158: cube20
+    6400160: cube200
+    6400162: cube201
+    6400164: cube202
+    6400166: cube203
+    6400168: cube204
+    6400170: cube205
+    6400172: cube206
+    6400174: cube207
+    6400176: cube208
+    6400178: cube209
+    6400180: cube21
+    6400182: cube210
+    6400184: cube211
+    6400186: cube212
+    6400188: cube213
+    6400190: cube214
+    6400192: cube215
+    6400194: cube216
+    6400196: cube217
+    6400198: cube218
+    6400200: cube219
+    6400202: cube22
+    6400204: cube220
+    6400206: cube221
+    6400208: cube222
+    6400210: cube223
+    6400212: cube224
+    6400214: cube225
+    6400216: cube226
+    6400218: cube227
+    6400220: cube228
+    6400222: cube229
+    6400224: cube23
+    6400226: cube230
+    6400228: cube231
+    6400230: cube232
+    6400232: cube233
+    6400234: cube234
+    6400236: cube235
+    6400238: cube236
+    6400240: cube237
+    6400242: cube238
+    6400244: cube239
+    6400246: cube24
+    6400248: cube240
+    6400250: cube241
+    6400252: cube242
+    6400254: cube243
+    6400256: cube244
+    6400258: cube245
+    6400260: cube246
+    6400262: cube247
+    6400264: cube248
+    6400266: cube249
+    6400268: cube25
+    6400270: cube250
+    6400272: cube251
+    6400274: cube252
+    6400276: cube253
+    6400278: cube254
+    6400280: cube255
+    6400282: cube256
+    6400284: cube257
+    6400286: cube258
+    6400288: cube259
+    6400290: cube26
+    6400292: cube260
+    6400294: cube261
+    6400296: cube262
+    6400298: cube263
+    6400300: cube264
+    6400302: cube265
+    6400304: cube266
+    6400306: cube267
+    6400308: cube268
+    6400310: cube269
+    6400312: cube27
+    6400314: cube270
+    6400316: cube271
+    6400318: cube272
+    6400320: cube273
+    6400322: cube274
+    6400324: cube275
+    6400326: cube276
+    6400328: cube277
+    6400330: cube278
+    6400332: cube279
+    6400334: cube28
+    6400336: cube280
+    6400338: cube281
+    6400340: cube282
+    6400342: cube283
+    6400344: cube284
+    6400346: cube285
+    6400348: cube286
+    6400350: cube287
+    6400352: cube288
+    6400354: cube289
+    6400356: cube29
+    6400358: cube290
+    6400360: cube291
+    6400362: cube292
+    6400364: cube293
+    6400366: cube294
+    6400368: cube295
+    6400370: cube296
+    6400372: cube297
+    6400374: cube298
+    6400376: cube299
+    6400378: cube30
+    6400380: cube300
+    6400382: cube301
+    6400384: cube302
+    6400386: cube303
+    6400388: cube304
+    6400390: cube305
+    6400392: cube306
+    6400394: cube307
+    6400396: cube308
+    6400398: cube309
+    6400400: cube31
+    6400402: cube310
+    6400404: cube311
+    6400406: cube312
+    6400408: cube313
+    6400410: cube314
+    6400412: cube315
+    6400414: cube316
+    6400416: cube317
+    6400418: cube318
+    6400420: cube32
+    6400422: cube321
+    6400424: cube322
+    6400426: cube323
+    6400428: cube324
+    6400430: cube325
+    6400432: cube326
+    6400434: cube327
+    6400436: cube328
+    6400438: cube329
+    6400440: cube33
+    6400442: cube330
+    6400444: cube331
+    6400446: cube332
+    6400448: cube333
+    6400450: cube334
+    6400452: cube335
+    6400454: cube336
+    6400456: cube337
+    6400458: cube338
+    6400460: cube339
+    6400462: cube34
+    6400464: cube340
+    6400466: cube341
+    6400468: cube342
+    6400470: cube343
+    6400472: cube344
+    6400474: cube345
+    6400476: cube346
+    6400478: cube347
+    6400480: cube348
+    6400482: cube349
+    6400484: cube35
+    6400486: cube350
+    6400488: cube351
+    6400490: cube36
+    6400492: cube37
+    6400494: cube38
+    6400496: cube39
+    6400498: cube40
+    6400500: cube41
+    6400502: cube42
+    6400504: cube426
+    6400506: cube427
+    6400508: cube428
+    6400510: cube429
+    6400512: cube43
+    6400514: cube431
+    6400516: cube432
+    6400518: cube433
+    6400520: cube434
+    6400522: cube436
+    6400524: cube437
+    6400526: cube438
+    6400528: cube439
+    6400530: cube44
+    6400532: cube441
+    6400534: cube442
+    6400536: cube443
+    6400538: cube444
+    6400540: cube446
+    6400542: cube447
+    6400544: cube448
+    6400546: cube449
+    6400548: cube45
+    6400550: cube450
+    6400552: cube451
+    6400554: cube452
+    6400556: cube453
+    6400558: cube46
+    6400560: cube47
+    6400562: cube48
+    6400564: cube49
+    6400566: cube50
+    6400568: cube51
+    6400570: cube52
+    6400572: cube53
+    6400574: cube54
+    6400576: cube55
+    6400578: cube56
+    6400580: cube57
+    6400582: cube58
+    6400584: cube59
+    6400586: cube60
+    6400588: cube64
+    6400590: cube65
+    6400592: cube66
+    6400594: cube67
+    6400596: cube68
+    6400598: cube69
+    6400600: cube73
+    6400602: Cylinder001
+    6400604: Cylinder002
+    6400606: Cylinder007
+    6400608: Cylinder008
+    6400610: Cylinder009
+    6400612: Cylinder010
+    6400614: Cylinder011
+    6400616: Cylinder012
+    6400618: Cylinder013
+    6400620: Cylinder014
+    6400622: Cylinder015
+    6400624: Cylinder016
+    6400626: Cylinder017
+    6400628: cylinder22
+    6400630: cylinder23
+    6400632: cylinder24
+    6400634: cylinder25
+    6400636: mesh01
+    6400638: mesh02
+    6400640: mesh03
+    6400642: mesh04
+    6400644: mesh05
+    6400646: mesh06
+    6400648: mesh07
+    6400650: mesh08
+    6400652: mesh081
+    6400654: mesh082
+    6400656: mesh083
+    6400658: mesh084
+    6400660: mesh086
+    6400662: mesh09
+    6400664: mesh10
+    6400666: mesh11
+    6400668: mesh12
+    6400670: mesh13
+    6400672: mesh14
+    6400674: mesh15
+    6400676: mesh16
+    6400678: mesh17
+    6400680: mesh20
+    6400682: mesh22
+    6400684: mesh23
+    6400686: mesh24
+    6400688: mesh25
+    6400690: mesh26
+    6400692: mesh27
+    6400694: mesh28
+    6400696: mesh29
+    6400698: mesh30
+    6400700: mesh31
+    6400702: mesh32
+    6400704: mesh33
+    6400706: mesh34
+    6400708: mesh35
+    6400710: mesh36
+    6400712: mesh39
+    6400714: mesh40
+    6400716: mesh41
+    6400718: mesh42
+    6400720: mesh43
+    6400722: mesh44
+    6400724: mesh45
+    6400726: mesh46
+    6400728: mesh47
+    6400730: mesh48
+    6400732: mesh49
+    6400734: mesh50
+    6400736: mesh52
+    6400738: mesh53
+    6400740: mesh54
+    6400742: mesh55
+    6400744: mesh56
+    6400746: mesh57
+    6400748: mesh58
+    6400750: mesh59
+    6400752: mesh60
+    6400754: mesh61
+    6400756: mesh62
+    6400758: mesh63
+    6400760: mesh64
+    6400762: mesh65
+    6400764: mesh66
+    6400766: mesh67
+    6400768: mesh68
+    6400770: mesh69
+    6400772: mesh70
+    6400774: mesh71
+    6400776: mesh72
+    6400778: mesh73
+    6400780: mesh74
+    6400782: mesh75
+    6400784: mesh76
+    6400786: mesh77
+    6400788: mesh78
+    6400790: mesh79
+    6400792: mesh80
+    6400794: Object001
+    6400796: Object006
+    6400798: subdivision01
+    6400800: subdivision02
+    6400802: subdivision03
+    6400804: subdivision04
+    6400806: subdivision05
+    6400808: subdivision06
+    6400810: subdivision07
+    6400812: subdivision08
+    6400814: subdivision09
+    6400816: subdivision10
+    6400818: subdivision11
+    6400820: subdivision12
+    6400822: subdivision13
+    6400824: subdivision16
+    6400826: subdivision17
+    6400828: subdivision18
+    6400830: subdivision19
+    6400832: subdivision20
+    6400834: subdivision21
+    6400836: subdivision26
+    6400838: subdivision27
+    7400000: mestam
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Object003
+    13700002: Object004
+    13700004: Object005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mestam
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 501
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip001
+        weight: 1
+      - path: Bip001/Bip001 Footsteps
+        weight: 1
+      - path: Bip001/Bip001 Pelvis
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L Foot/Bip001 L Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L Foot/Bip001 L Toe0/Bip001 L Toe01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L Foot/Bip001 L Toe0/Bip001 L Toe01/Bip001 L Toe02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L Foot/Bip001 L Toe0/Bip001 L Toe01/Bip001 L Toe02/Bip001 L Toe0Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R Foot/Bip001 R Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R Foot/Bip001 R Toe0/Bip001 R Toe01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R Foot/Bip001 R Toe0/Bip001 R Toe01/Bip001 R Toe02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R Foot/Bip001 R Toe0/Bip001 R Toe01/Bip001 R Toe02/Bip001 R Toe0Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 Head
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 Head/Bip001 HeadNub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger0/Bip001 L Finger01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger0/Bip001 L Finger01/Bip001 L Finger02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger0/Bip001 L Finger01/Bip001 L Finger02/Bip001 L Finger0Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger1/Bip001 L Finger11
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger1/Bip001 L Finger11/Bip001 L Finger12
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger1/Bip001 L Finger11/Bip001 L Finger12/Bip001 L Finger1Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger2
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger2/Bip001 L Finger21
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger2/Bip001 L Finger21/Bip001 L Finger22
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger2/Bip001 L Finger21/Bip001 L Finger22/Bip001 L Finger2Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger3
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger3/Bip001 L Finger31
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger3/Bip001 L Finger31/Bip001 L Finger32
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger3/Bip001 L Finger31/Bip001 L Finger32/Bip001 L Finger3Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger4
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger4/Bip001 L Finger41
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger4/Bip001 L Finger41/Bip001 L Finger42
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger4/Bip001 L Finger41/Bip001 L Finger42/Bip001 L Finger4Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger0/Bip001 R Finger01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger0/Bip001 R Finger01/Bip001 R Finger02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger0/Bip001 R Finger01/Bip001 R Finger02/Bip001 R Finger0Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger1/Bip001 R Finger11
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger1/Bip001 R Finger11/Bip001 R Finger12
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger1/Bip001 R Finger11/Bip001 R Finger12/Bip001 R Finger1Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger2
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger2/Bip001 R Finger21
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger2/Bip001 R Finger21/Bip001 R Finger22
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger2/Bip001 R Finger21/Bip001 R Finger22/Bip001 R Finger2Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger3
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger3/Bip001 R Finger31
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger3/Bip001 R Finger31/Bip001 R Finger32
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger3/Bip001 R Finger31/Bip001 R Finger32/Bip001 R Finger3Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger4
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger4/Bip001 R Finger41
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger4/Bip001 R Finger41/Bip001 R Finger42
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger4/Bip001 R Finger41/Bip001 R Finger42/Bip001 R Finger4Nub
+        weight: 1
+      - path: Bip002
+        weight: 1
+      - path: Bip002/Bip002 Footsteps
+        weight: 1
+      - path: Bip002/Bip002 Pelvis
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 L Thigh
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 L Thigh/Bip002 L Calf
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 L Thigh/Bip002 L Calf/Bip002
+          L Foot
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 L Thigh/Bip002 L Calf/Bip002
+          L Foot/Bip002 L Toe0
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 L Thigh/Bip002 L Calf/Bip002
+          L Foot/Bip002 L Toe0/Bip002 L Toe01
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 L Thigh/Bip002 L Calf/Bip002
+          L Foot/Bip002 L Toe0/Bip002 L Toe01/Bip002 L Toe02
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 L Thigh/Bip002 L Calf/Bip002
+          L Foot/Bip002 L Toe0/Bip002 L Toe01/Bip002 L Toe02/Bip002 L Toe0Nub
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 R Thigh
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 R Thigh/Bip002 R Calf
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 R Thigh/Bip002 R Calf/Bip002
+          R Foot
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 R Thigh/Bip002 R Calf/Bip002
+          R Foot/Bip002 R Toe0
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 R Thigh/Bip002 R Calf/Bip002
+          R Foot/Bip002 R Toe0/Bip002 R Toe01
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 R Thigh/Bip002 R Calf/Bip002
+          R Foot/Bip002 R Toe0/Bip002 R Toe01/Bip002 R Toe02
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 R Thigh/Bip002 R Calf/Bip002
+          R Foot/Bip002 R Toe0/Bip002 R Toe01/Bip002 R Toe02/Bip002 R Toe0Nub
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 Head
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 Head/Bip002 HeadNub
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger0
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger0/Bip002 L Finger01
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger0/Bip002 L Finger01/Bip002 L Finger02
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger0/Bip002 L Finger01/Bip002 L Finger02/Bip002 L Finger0Nub
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger1
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger1/Bip002 L Finger11
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger1/Bip002 L Finger11/Bip002 L Finger12
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger1/Bip002 L Finger11/Bip002 L Finger12/Bip002 L Finger1Nub
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger2
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger2/Bip002 L Finger21
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger2/Bip002 L Finger21/Bip002 L Finger22
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger2/Bip002 L Finger21/Bip002 L Finger22/Bip002 L Finger2Nub
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger3
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger3/Bip002 L Finger31
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger3/Bip002 L Finger31/Bip002 L Finger32
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger3/Bip002 L Finger31/Bip002 L Finger32/Bip002 L Finger3Nub
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger4
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger4/Bip002 L Finger41
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger4/Bip002 L Finger41/Bip002 L Finger42
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002
+          L Hand/Bip002 L Finger4/Bip002 L Finger41/Bip002 L Finger42/Bip002 L Finger4Nub
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger0
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger0/Bip002 R Finger01
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger0/Bip002 R Finger01/Bip002 R Finger02
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger0/Bip002 R Finger01/Bip002 R Finger02/Bip002 R Finger0Nub
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger1
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger1/Bip002 R Finger11
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger1/Bip002 R Finger11/Bip002 R Finger12
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger1/Bip002 R Finger11/Bip002 R Finger12/Bip002 R Finger1Nub
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger2
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger2/Bip002 R Finger21
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger2/Bip002 R Finger21/Bip002 R Finger22
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger2/Bip002 R Finger21/Bip002 R Finger22/Bip002 R Finger2Nub
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger3
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger3/Bip002 R Finger31
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger3/Bip002 R Finger31/Bip002 R Finger32
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger3/Bip002 R Finger31/Bip002 R Finger32/Bip002 R Finger3Nub
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger4
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger4/Bip002 R Finger41
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger4/Bip002 R Finger41/Bip002 R Finger42
+        weight: 1
+      - path: Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Spine3/Bip002 Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002
+          R Hand/Bip002 R Finger4/Bip002 R Finger41/Bip002 R Finger42/Bip002 R Finger4Nub
+        weight: 1
+      - path: Bip003
+        weight: 1
+      - path: Bip003/Bip003 Footsteps
+        weight: 1
+      - path: Bip003/Bip003 Pelvis
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 L Thigh
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 L Thigh/Bip003 L Calf
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 L Thigh/Bip003 L Calf/Bip003
+          L Foot
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 L Thigh/Bip003 L Calf/Bip003
+          L Foot/Bip003 L Toe0
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 L Thigh/Bip003 L Calf/Bip003
+          L Foot/Bip003 L Toe0/Bip003 L Toe01
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 L Thigh/Bip003 L Calf/Bip003
+          L Foot/Bip003 L Toe0/Bip003 L Toe01/Bip003 L Toe02
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 L Thigh/Bip003 L Calf/Bip003
+          L Foot/Bip003 L Toe0/Bip003 L Toe01/Bip003 L Toe02/Bip003 L Toe0Nub
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 R Thigh
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 R Thigh/Bip003 R Calf
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 R Thigh/Bip003 R Calf/Bip003
+          R Foot
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 R Thigh/Bip003 R Calf/Bip003
+          R Foot/Bip003 R Toe0
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 R Thigh/Bip003 R Calf/Bip003
+          R Foot/Bip003 R Toe0/Bip003 R Toe01
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 R Thigh/Bip003 R Calf/Bip003
+          R Foot/Bip003 R Toe0/Bip003 R Toe01/Bip003 R Toe02
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 R Thigh/Bip003 R Calf/Bip003
+          R Foot/Bip003 R Toe0/Bip003 R Toe01/Bip003 R Toe02/Bip003 R Toe0Nub
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 Head
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 Head/Bip003 HeadNub
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger0
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger0/Bip003 L Finger01
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger0/Bip003 L Finger01/Bip003 L Finger02
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger0/Bip003 L Finger01/Bip003 L Finger02/Bip003 L Finger0Nub
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger1
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger1/Bip003 L Finger11
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger1/Bip003 L Finger11/Bip003 L Finger12
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger1/Bip003 L Finger11/Bip003 L Finger12/Bip003 L Finger1Nub
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger2
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger2/Bip003 L Finger21
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger2/Bip003 L Finger21/Bip003 L Finger22
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger2/Bip003 L Finger21/Bip003 L Finger22/Bip003 L Finger2Nub
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger3
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger3/Bip003 L Finger31
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger3/Bip003 L Finger31/Bip003 L Finger32
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger3/Bip003 L Finger31/Bip003 L Finger32/Bip003 L Finger3Nub
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger4
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger4/Bip003 L Finger41
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger4/Bip003 L Finger41/Bip003 L Finger42
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 L Clavicle/Bip003 L UpperArm/Bip003 L Forearm/Bip003
+          L Hand/Bip003 L Finger4/Bip003 L Finger41/Bip003 L Finger42/Bip003 L Finger4Nub
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger0
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger0/Bip003 R Finger01
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger0/Bip003 R Finger01/Bip003 R Finger02
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger0/Bip003 R Finger01/Bip003 R Finger02/Bip003 R Finger0Nub
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger1
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger1/Bip003 R Finger11
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger1/Bip003 R Finger11/Bip003 R Finger12
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger1/Bip003 R Finger11/Bip003 R Finger12/Bip003 R Finger1Nub
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger2
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger2/Bip003 R Finger21
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger2/Bip003 R Finger21/Bip003 R Finger22
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger2/Bip003 R Finger21/Bip003 R Finger22/Bip003 R Finger2Nub
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger3
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger3/Bip003 R Finger31
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger3/Bip003 R Finger31/Bip003 R Finger32
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger3/Bip003 R Finger31/Bip003 R Finger32/Bip003 R Finger3Nub
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger4
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger4/Bip003 R Finger41
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger4/Bip003 R Finger41/Bip003 R Finger42
+        weight: 1
+      - path: Bip003/Bip003 Pelvis/Bip003 Spine/Bip003 Spine1/Bip003 Spine2/Bip003
+          Spine3/Bip003 Neck/Bip003 R Clavicle/Bip003 R UpperArm/Bip003 R Forearm/Bip003
+          R Hand/Bip003 R Finger4/Bip003 R Finger41/Bip003 R Finger42/Bip003 R Finger4Nub
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box005
+        weight: 1
+      - path: Box006
+        weight: 1
+      - path: Box007
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Cone001
+        weight: 1
+      - path: cube01
+        weight: 1
+      - path: cube02
+        weight: 1
+      - path: cube03
+        weight: 1
+      - path: cube04
+        weight: 1
+      - path: cube05
+        weight: 1
+      - path: cube06
+        weight: 1
+      - path: cube07
+        weight: 1
+      - path: cube08
+        weight: 1
+      - path: cube09
+        weight: 1
+      - path: cube10
+        weight: 1
+      - path: cube11
+        weight: 1
+      - path: cube12
+        weight: 1
+      - path: cube13
+        weight: 1
+      - path: cube14
+        weight: 1
+      - path: cube15
+        weight: 1
+      - path: cube16
+        weight: 1
+      - path: cube17
+        weight: 1
+      - path: cube18
+        weight: 1
+      - path: cube19
+        weight: 1
+      - path: cube20
+        weight: 1
+      - path: cube21
+        weight: 1
+      - path: cube22
+        weight: 1
+      - path: cube23
+        weight: 1
+      - path: cube24
+        weight: 1
+      - path: cube25
+        weight: 1
+      - path: cube26
+        weight: 1
+      - path: cube27
+        weight: 1
+      - path: cube28
+        weight: 1
+      - path: cube29
+        weight: 1
+      - path: cube30
+        weight: 1
+      - path: cube31
+        weight: 1
+      - path: cube32
+        weight: 1
+      - path: cube33
+        weight: 1
+      - path: cube34
+        weight: 1
+      - path: cube35
+        weight: 1
+      - path: cube36
+        weight: 1
+      - path: cube37
+        weight: 1
+      - path: cube38
+        weight: 1
+      - path: cube39
+        weight: 1
+      - path: cube40
+        weight: 1
+      - path: cube41
+        weight: 1
+      - path: cube42
+        weight: 1
+      - path: cube43
+        weight: 1
+      - path: cube44
+        weight: 1
+      - path: cube45
+        weight: 1
+      - path: cube46
+        weight: 1
+      - path: cube47
+        weight: 1
+      - path: cube48
+        weight: 1
+      - path: cube49
+        weight: 1
+      - path: cube50
+        weight: 1
+      - path: cube51
+        weight: 1
+      - path: cube52
+        weight: 1
+      - path: cube53
+        weight: 1
+      - path: cube54
+        weight: 1
+      - path: cube55
+        weight: 1
+      - path: cube56
+        weight: 1
+      - path: cube57
+        weight: 1
+      - path: cube58
+        weight: 1
+      - path: cube59
+        weight: 1
+      - path: cube60
+        weight: 1
+      - path: cube64
+        weight: 1
+      - path: cube65
+        weight: 1
+      - path: cube66
+        weight: 1
+      - path: cube67
+        weight: 1
+      - path: cube68
+        weight: 1
+      - path: cube69
+        weight: 1
+      - path: cube73
+        weight: 1
+      - path: cube160
+        weight: 1
+      - path: cube161
+        weight: 1
+      - path: cube162
+        weight: 1
+      - path: cube163
+        weight: 1
+      - path: cube164
+        weight: 1
+      - path: cube165
+        weight: 1
+      - path: cube166
+        weight: 1
+      - path: cube167
+        weight: 1
+      - path: cube168
+        weight: 1
+      - path: cube169
+        weight: 1
+      - path: cube170
+        weight: 1
+      - path: cube171
+        weight: 1
+      - path: cube172
+        weight: 1
+      - path: cube173
+        weight: 1
+      - path: cube174
+        weight: 1
+      - path: cube175
+        weight: 1
+      - path: cube176
+        weight: 1
+      - path: cube177
+        weight: 1
+      - path: cube178
+        weight: 1
+      - path: cube179
+        weight: 1
+      - path: cube180
+        weight: 1
+      - path: cube181
+        weight: 1
+      - path: cube182
+        weight: 1
+      - path: cube183
+        weight: 1
+      - path: cube184
+        weight: 1
+      - path: cube185
+        weight: 1
+      - path: cube186
+        weight: 1
+      - path: cube187
+        weight: 1
+      - path: cube188
+        weight: 1
+      - path: cube189
+        weight: 1
+      - path: cube190
+        weight: 1
+      - path: cube191
+        weight: 1
+      - path: cube192
+        weight: 1
+      - path: cube193
+        weight: 1
+      - path: cube194
+        weight: 1
+      - path: cube195
+        weight: 1
+      - path: cube196
+        weight: 1
+      - path: cube197
+        weight: 1
+      - path: cube198
+        weight: 1
+      - path: cube199
+        weight: 1
+      - path: cube200
+        weight: 1
+      - path: cube201
+        weight: 1
+      - path: cube202
+        weight: 1
+      - path: cube203
+        weight: 1
+      - path: cube204
+        weight: 1
+      - path: cube205
+        weight: 1
+      - path: cube206
+        weight: 1
+      - path: cube207
+        weight: 1
+      - path: cube208
+        weight: 1
+      - path: cube209
+        weight: 1
+      - path: cube210
+        weight: 1
+      - path: cube211
+        weight: 1
+      - path: cube212
+        weight: 1
+      - path: cube213
+        weight: 1
+      - path: cube214
+        weight: 1
+      - path: cube215
+        weight: 1
+      - path: cube216
+        weight: 1
+      - path: cube217
+        weight: 1
+      - path: cube218
+        weight: 1
+      - path: cube219
+        weight: 1
+      - path: cube220
+        weight: 1
+      - path: cube221
+        weight: 1
+      - path: cube222
+        weight: 1
+      - path: cube223
+        weight: 1
+      - path: cube224
+        weight: 1
+      - path: cube225
+        weight: 1
+      - path: cube226
+        weight: 1
+      - path: cube227
+        weight: 1
+      - path: cube228
+        weight: 1
+      - path: cube229
+        weight: 1
+      - path: cube230
+        weight: 1
+      - path: cube231
+        weight: 1
+      - path: cube232
+        weight: 1
+      - path: cube233
+        weight: 1
+      - path: cube234
+        weight: 1
+      - path: cube235
+        weight: 1
+      - path: cube236
+        weight: 1
+      - path: cube237
+        weight: 1
+      - path: cube238
+        weight: 1
+      - path: cube239
+        weight: 1
+      - path: cube240
+        weight: 1
+      - path: cube241
+        weight: 1
+      - path: cube242
+        weight: 1
+      - path: cube243
+        weight: 1
+      - path: cube244
+        weight: 1
+      - path: cube245
+        weight: 1
+      - path: cube246
+        weight: 1
+      - path: cube247
+        weight: 1
+      - path: cube248
+        weight: 1
+      - path: cube249
+        weight: 1
+      - path: cube250
+        weight: 1
+      - path: cube251
+        weight: 1
+      - path: cube252
+        weight: 1
+      - path: cube253
+        weight: 1
+      - path: cube254
+        weight: 1
+      - path: cube255
+        weight: 1
+      - path: cube256
+        weight: 1
+      - path: cube257
+        weight: 1
+      - path: cube258
+        weight: 1
+      - path: cube259
+        weight: 1
+      - path: cube260
+        weight: 1
+      - path: cube261
+        weight: 1
+      - path: cube262
+        weight: 1
+      - path: cube263
+        weight: 1
+      - path: cube264
+        weight: 1
+      - path: cube265
+        weight: 1
+      - path: cube266
+        weight: 1
+      - path: cube267
+        weight: 1
+      - path: cube268
+        weight: 1
+      - path: cube269
+        weight: 1
+      - path: cube270
+        weight: 1
+      - path: cube271
+        weight: 1
+      - path: cube272
+        weight: 1
+      - path: cube273
+        weight: 1
+      - path: cube274
+        weight: 1
+      - path: cube275
+        weight: 1
+      - path: cube276
+        weight: 1
+      - path: cube277
+        weight: 1
+      - path: cube278
+        weight: 1
+      - path: cube279
+        weight: 1
+      - path: cube280
+        weight: 1
+      - path: cube281
+        weight: 1
+      - path: cube282
+        weight: 1
+      - path: cube283
+        weight: 1
+      - path: cube284
+        weight: 1
+      - path: cube285
+        weight: 1
+      - path: cube286
+        weight: 1
+      - path: cube287
+        weight: 1
+      - path: cube288
+        weight: 1
+      - path: cube289
+        weight: 1
+      - path: cube290
+        weight: 1
+      - path: cube291
+        weight: 1
+      - path: cube292
+        weight: 1
+      - path: cube293
+        weight: 1
+      - path: cube294
+        weight: 1
+      - path: cube295
+        weight: 1
+      - path: cube296
+        weight: 1
+      - path: cube297
+        weight: 1
+      - path: cube298
+        weight: 1
+      - path: cube299
+        weight: 1
+      - path: cube300
+        weight: 1
+      - path: cube301
+        weight: 1
+      - path: cube302
+        weight: 1
+      - path: cube303
+        weight: 1
+      - path: cube304
+        weight: 1
+      - path: cube305
+        weight: 1
+      - path: cube306
+        weight: 1
+      - path: cube307
+        weight: 1
+      - path: cube308
+        weight: 1
+      - path: cube309
+        weight: 1
+      - path: cube310
+        weight: 1
+      - path: cube311
+        weight: 1
+      - path: cube312
+        weight: 1
+      - path: cube313
+        weight: 1
+      - path: cube314
+        weight: 1
+      - path: cube315
+        weight: 1
+      - path: cube316
+        weight: 1
+      - path: cube317
+        weight: 1
+      - path: cube318
+        weight: 1
+      - path: cube321
+        weight: 1
+      - path: cube322
+        weight: 1
+      - path: cube323
+        weight: 1
+      - path: cube324
+        weight: 1
+      - path: cube325
+        weight: 1
+      - path: cube326
+        weight: 1
+      - path: cube327
+        weight: 1
+      - path: cube328
+        weight: 1
+      - path: cube329
+        weight: 1
+      - path: cube330
+        weight: 1
+      - path: cube331
+        weight: 1
+      - path: cube332
+        weight: 1
+      - path: cube333
+        weight: 1
+      - path: cube334
+        weight: 1
+      - path: cube335
+        weight: 1
+      - path: cube336
+        weight: 1
+      - path: cube337
+        weight: 1
+      - path: cube338
+        weight: 1
+      - path: cube339
+        weight: 1
+      - path: cube340
+        weight: 1
+      - path: cube341
+        weight: 1
+      - path: cube342
+        weight: 1
+      - path: cube343
+        weight: 1
+      - path: cube344
+        weight: 1
+      - path: cube345
+        weight: 1
+      - path: cube346
+        weight: 1
+      - path: cube347
+        weight: 1
+      - path: cube348
+        weight: 1
+      - path: cube349
+        weight: 1
+      - path: cube350
+        weight: 1
+      - path: cube351
+        weight: 1
+      - path: cube426
+        weight: 1
+      - path: cube427
+        weight: 1
+      - path: cube428
+        weight: 1
+      - path: cube429
+        weight: 1
+      - path: cube431
+        weight: 1
+      - path: cube432
+        weight: 1
+      - path: cube433
+        weight: 1
+      - path: cube434
+        weight: 1
+      - path: cube436
+        weight: 1
+      - path: cube437
+        weight: 1
+      - path: cube438
+        weight: 1
+      - path: cube439
+        weight: 1
+      - path: cube441
+        weight: 1
+      - path: cube442
+        weight: 1
+      - path: cube443
+        weight: 1
+      - path: cube444
+        weight: 1
+      - path: cube446
+        weight: 1
+      - path: cube447
+        weight: 1
+      - path: cube448
+        weight: 1
+      - path: cube449
+        weight: 1
+      - path: cube450
+        weight: 1
+      - path: cube451
+        weight: 1
+      - path: cube452
+        weight: 1
+      - path: cube453
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder002
+        weight: 1
+      - path: Cylinder007
+        weight: 1
+      - path: Cylinder008
+        weight: 1
+      - path: Cylinder009
+        weight: 1
+      - path: Cylinder010
+        weight: 1
+      - path: Cylinder011
+        weight: 1
+      - path: Cylinder012
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder014
+        weight: 1
+      - path: Cylinder015
+        weight: 1
+      - path: Cylinder016
+        weight: 1
+      - path: Cylinder017
+        weight: 1
+      - path: cylinder22
+        weight: 1
+      - path: cylinder23
+        weight: 1
+      - path: cylinder24
+        weight: 1
+      - path: cylinder25
+        weight: 1
+      - path: Donut001
+        weight: 1
+      - path: Donut002
+        weight: 1
+      - path: mesh01
+        weight: 1
+      - path: mesh02
+        weight: 1
+      - path: mesh03
+        weight: 1
+      - path: mesh04
+        weight: 1
+      - path: mesh05
+        weight: 1
+      - path: mesh06
+        weight: 1
+      - path: mesh07
+        weight: 1
+      - path: mesh08
+        weight: 1
+      - path: mesh09
+        weight: 1
+      - path: mesh10
+        weight: 1
+      - path: mesh11
+        weight: 1
+      - path: mesh12
+        weight: 1
+      - path: mesh13
+        weight: 1
+      - path: mesh14
+        weight: 1
+      - path: mesh15
+        weight: 1
+      - path: mesh16
+        weight: 1
+      - path: mesh17
+        weight: 1
+      - path: mesh20
+        weight: 1
+      - path: mesh22
+        weight: 1
+      - path: mesh23
+        weight: 1
+      - path: mesh24
+        weight: 1
+      - path: mesh25
+        weight: 1
+      - path: mesh26
+        weight: 1
+      - path: mesh27
+        weight: 1
+      - path: mesh28
+        weight: 1
+      - path: mesh29
+        weight: 1
+      - path: mesh30
+        weight: 1
+      - path: mesh31
+        weight: 1
+      - path: mesh32
+        weight: 1
+      - path: mesh33
+        weight: 1
+      - path: mesh34
+        weight: 1
+      - path: mesh35
+        weight: 1
+      - path: mesh36
+        weight: 1
+      - path: mesh39
+        weight: 1
+      - path: mesh40
+        weight: 1
+      - path: mesh41
+        weight: 1
+      - path: mesh42
+        weight: 1
+      - path: mesh43
+        weight: 1
+      - path: mesh44
+        weight: 1
+      - path: mesh45
+        weight: 1
+      - path: mesh46
+        weight: 1
+      - path: mesh47
+        weight: 1
+      - path: mesh48
+        weight: 1
+      - path: mesh49
+        weight: 1
+      - path: mesh50
+        weight: 1
+      - path: mesh52
+        weight: 1
+      - path: mesh53
+        weight: 1
+      - path: mesh54
+        weight: 1
+      - path: mesh55
+        weight: 1
+      - path: mesh56
+        weight: 1
+      - path: mesh57
+        weight: 1
+      - path: mesh58
+        weight: 1
+      - path: mesh59
+        weight: 1
+      - path: mesh60
+        weight: 1
+      - path: mesh61
+        weight: 1
+      - path: mesh62
+        weight: 1
+      - path: mesh63
+        weight: 1
+      - path: mesh64
+        weight: 1
+      - path: mesh65
+        weight: 1
+      - path: mesh66
+        weight: 1
+      - path: mesh67
+        weight: 1
+      - path: mesh68
+        weight: 1
+      - path: mesh69
+        weight: 1
+      - path: mesh70
+        weight: 1
+      - path: mesh71
+        weight: 1
+      - path: mesh72
+        weight: 1
+      - path: mesh73
+        weight: 1
+      - path: mesh74
+        weight: 1
+      - path: mesh75
+        weight: 1
+      - path: mesh76
+        weight: 1
+      - path: mesh77
+        weight: 1
+      - path: mesh78
+        weight: 1
+      - path: mesh79
+        weight: 1
+      - path: mesh80
+        weight: 1
+      - path: mesh081
+        weight: 1
+      - path: mesh082
+        weight: 1
+      - path: mesh083
+        weight: 1
+      - path: mesh084
+        weight: 1
+      - path: mesh085
+        weight: 1
+      - path: mesh086
+        weight: 1
+      - path: Object001
+        weight: 1
+      - path: Object003
+        weight: 1
+      - path: Object004
+        weight: 1
+      - path: Object005
+        weight: 1
+      - path: Object006
+        weight: 1
+      - path: subdivision01
+        weight: 1
+      - path: subdivision02
+        weight: 1
+      - path: subdivision03
+        weight: 1
+      - path: subdivision04
+        weight: 1
+      - path: subdivision05
+        weight: 1
+      - path: subdivision06
+        weight: 1
+      - path: subdivision07
+        weight: 1
+      - path: subdivision08
+        weight: 1
+      - path: subdivision09
+        weight: 1
+      - path: subdivision10
+        weight: 1
+      - path: subdivision11
+        weight: 1
+      - path: subdivision12
+        weight: 1
+      - path: subdivision13
+        weight: 1
+      - path: subdivision16
+        weight: 1
+      - path: subdivision17
+        weight: 1
+      - path: subdivision18
+        weight: 1
+      - path: subdivision19
+        weight: 1
+      - path: subdivision20
+        weight: 1
+      - path: subdivision21
+        weight: 1
+      - path: subdivision26
+        weight: 1
+      - path: subdivision27
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

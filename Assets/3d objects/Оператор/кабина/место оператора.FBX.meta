@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: 2a0dd89cccb53e34e8751243336a28c0
+timeCreated: 1442990383
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box001 1
+    100004: Box002
+    100006: Box002 1
+    100008: Box003
+    100010: Box003 1
+    100012: Box004
+    100014: Box004 1
+    100016: Box005
+    100018: ChamferBox001
+    100020: ChamferBox001 1
+    100022: ChamferBox002
+    100024: ChamferCyl001
+    100026: ChamferCyl002
+    100028: Cylinder001
+    100030: Cylinder001 1
+    100032: Cylinder001 2
+    100034: Cylinder002
+    100036: Cylinder0021
+    100038: Cylinder003
+    100040: Cylinder004
+    100042: Cylinder004 1
+    100044: Cylinder0041
+    100046: Cylinder005
+    100048: Cylinder0051
+    100050: Cylinder006
+    100052: Cylinder0061
+    100054: Cylinder0071
+    100056: Cylinder0081
+    100058: Cylinder0091
+    100060: Cylinder010
+    100062: Cylinder011
+    100064: Cylinder012
+    100066: Cylinder013
+    100068: Cylinder014
+    100070: Cylinder015
+    100072: Cylinder016
+    100074: Cylinder017
+    100076: Cylinder018
+    100078: Cylinder019
+    100080: Cylinder020
+    100082: Cylinder021
+    100084: Cylinder022
+    100086: Cylinder023
+    100088: Cylinder024
+    100090: Cylinder025
+    100092: Cylinder026
+    100094: Cylinder027
+    100096: Cylinder028
+    100098: Cylinder029
+    100100: Cylinder030
+    100102: Cylinder031
+    100104: Cylinder032
+    100106: Cylinder033
+    100108: Cylinder034
+    100110: Cylinder035
+    100112: Cylinder036
+    100114: Cylinder037
+    100116: Cylinder038
+    100118: Cylinder039
+    100120: Cylinder040
+    100122: Cylinder041
+    100124: Cylinder042
+    100126: Cylinder043
+    100128: Cylinder044
+    100130: Cylinder092
+    100132: Group001
+    100134: Group0021
+    100136: Group0031
+    100138: Line002
+    100140: Line032
+    100142: Line033
+    100144: Object001
+    100146: OilTank001
+    100148: OilTank002
+    100150: Text002
+    100152: Text003
+    100154: Text004
+    100156: Text005
+    100158: "\u0412\u0418\u0417\u0418\u0420"
+    100160: "\u041F\u041D"
+    100162: "\u043B\u0435\u0432\u0430\u044F \u0440\u0443\u0447\u043A\u0430"
+    100164: //RootNode
+    100166: "\u043F\u0440\u0430\u0432\u0430\u044F \u0440\u0443\u0447\u043A\u0430"
+    100168: "\u0442\u0443\u043C\u0431\u043B\u0435\u0440001"
+    400000: Box001
+    400002: Box001 1
+    400004: Box002
+    400006: Box002 1
+    400008: Box003
+    400010: Box003 1
+    400012: Box004
+    400014: Box004 1
+    400016: Box005
+    400018: ChamferBox001
+    400020: ChamferBox001 1
+    400022: ChamferBox002
+    400024: ChamferCyl001
+    400026: ChamferCyl002
+    400028: Cylinder001
+    400030: Cylinder001 1
+    400032: Cylinder001 2
+    400034: Cylinder002
+    400036: Cylinder0021
+    400038: Cylinder003
+    400040: Cylinder004
+    400042: Cylinder004 1
+    400044: Cylinder0041
+    400046: Cylinder005
+    400048: Cylinder0051
+    400050: Cylinder006
+    400052: Cylinder0061
+    400054: Cylinder0071
+    400056: Cylinder0081
+    400058: Cylinder0091
+    400060: Cylinder010
+    400062: Cylinder011
+    400064: Cylinder012
+    400066: Cylinder013
+    400068: Cylinder014
+    400070: Cylinder015
+    400072: Cylinder016
+    400074: Cylinder017
+    400076: Cylinder018
+    400078: Cylinder019
+    400080: Cylinder020
+    400082: Cylinder021
+    400084: Cylinder022
+    400086: Cylinder023
+    400088: Cylinder024
+    400090: Cylinder025
+    400092: Cylinder026
+    400094: Cylinder027
+    400096: Cylinder028
+    400098: Cylinder029
+    400100: Cylinder030
+    400102: Cylinder031
+    400104: Cylinder032
+    400106: Cylinder033
+    400108: Cylinder034
+    400110: Cylinder035
+    400112: Cylinder036
+    400114: Cylinder037
+    400116: Cylinder038
+    400118: Cylinder039
+    400120: Cylinder040
+    400122: Cylinder041
+    400124: Cylinder042
+    400126: Cylinder043
+    400128: Cylinder044
+    400130: Cylinder092
+    400132: Group001
+    400134: Group0021
+    400136: Group0031
+    400138: Line002
+    400140: Line032
+    400142: Line033
+    400144: Object001
+    400146: OilTank001
+    400148: OilTank002
+    400150: Text002
+    400152: Text003
+    400154: Text004
+    400156: Text005
+    400158: "\u0412\u0418\u0417\u0418\u0420"
+    400160: "\u041F\u041D"
+    400162: "\u043B\u0435\u0432\u0430\u044F \u0440\u0443\u0447\u043A\u0430"
+    400164: //RootNode
+    400166: "\u043F\u0440\u0430\u0432\u0430\u044F \u0440\u0443\u0447\u043A\u0430"
+    400168: "\u0442\u0443\u043C\u0431\u043B\u0435\u0440001"
+    2300000: Box001
+    2300002: Box001 1
+    2300004: Box002
+    2300006: Box002 1
+    2300008: Box003
+    2300010: Box003 1
+    2300012: Box004
+    2300014: Box004 1
+    2300016: Box005
+    2300018: ChamferBox001
+    2300020: ChamferBox001 1
+    2300022: ChamferBox002
+    2300024: ChamferCyl001
+    2300026: ChamferCyl002
+    2300028: Cylinder001
+    2300030: Cylinder001 1
+    2300032: Cylinder001 2
+    2300034: Cylinder002
+    2300036: Cylinder0021
+    2300038: Cylinder003
+    2300040: Cylinder004
+    2300042: Cylinder004 1
+    2300044: Cylinder0041
+    2300046: Cylinder005
+    2300048: Cylinder0051
+    2300050: Cylinder006
+    2300052: Cylinder0061
+    2300054: Cylinder0071
+    2300056: Cylinder0081
+    2300058: Cylinder0091
+    2300060: Cylinder010
+    2300062: Cylinder011
+    2300064: Cylinder012
+    2300066: Cylinder013
+    2300068: Cylinder014
+    2300070: Cylinder015
+    2300072: Cylinder016
+    2300074: Cylinder017
+    2300076: Cylinder018
+    2300078: Cylinder019
+    2300080: Cylinder020
+    2300082: Cylinder021
+    2300084: Cylinder022
+    2300086: Cylinder023
+    2300088: Cylinder024
+    2300090: Cylinder025
+    2300092: Cylinder026
+    2300094: Cylinder027
+    2300096: Cylinder028
+    2300098: Cylinder029
+    2300100: Cylinder030
+    2300102: Cylinder031
+    2300104: Cylinder032
+    2300106: Cylinder033
+    2300108: Cylinder034
+    2300110: Cylinder035
+    2300112: Cylinder036
+    2300114: Cylinder037
+    2300116: Cylinder038
+    2300118: Cylinder039
+    2300120: Cylinder040
+    2300122: Cylinder041
+    2300124: Cylinder042
+    2300126: Cylinder043
+    2300128: Cylinder044
+    2300130: Cylinder092
+    2300132: Line002
+    2300134: Line032
+    2300136: Line033
+    2300138: Object001
+    2300140: OilTank001
+    2300142: OilTank002
+    2300144: Text002
+    2300146: Text003
+    2300148: Text004
+    2300150: Text005
+    3300000: Box001
+    3300002: Box001 1
+    3300004: Box002
+    3300006: Box002 1
+    3300008: Box003
+    3300010: Box003 1
+    3300012: Box004
+    3300014: Box004 1
+    3300016: Box005
+    3300018: ChamferBox001
+    3300020: ChamferBox001 1
+    3300022: ChamferBox002
+    3300024: ChamferCyl001
+    3300026: ChamferCyl002
+    3300028: Cylinder001
+    3300030: Cylinder001 1
+    3300032: Cylinder001 2
+    3300034: Cylinder002
+    3300036: Cylinder0021
+    3300038: Cylinder003
+    3300040: Cylinder004
+    3300042: Cylinder004 1
+    3300044: Cylinder0041
+    3300046: Cylinder005
+    3300048: Cylinder0051
+    3300050: Cylinder006
+    3300052: Cylinder0061
+    3300054: Cylinder0071
+    3300056: Cylinder0081
+    3300058: Cylinder0091
+    3300060: Cylinder010
+    3300062: Cylinder011
+    3300064: Cylinder012
+    3300066: Cylinder013
+    3300068: Cylinder014
+    3300070: Cylinder015
+    3300072: Cylinder016
+    3300074: Cylinder017
+    3300076: Cylinder018
+    3300078: Cylinder019
+    3300080: Cylinder020
+    3300082: Cylinder021
+    3300084: Cylinder022
+    3300086: Cylinder023
+    3300088: Cylinder024
+    3300090: Cylinder025
+    3300092: Cylinder026
+    3300094: Cylinder027
+    3300096: Cylinder028
+    3300098: Cylinder029
+    3300100: Cylinder030
+    3300102: Cylinder031
+    3300104: Cylinder032
+    3300106: Cylinder033
+    3300108: Cylinder034
+    3300110: Cylinder035
+    3300112: Cylinder036
+    3300114: Cylinder037
+    3300116: Cylinder038
+    3300118: Cylinder039
+    3300120: Cylinder040
+    3300122: Cylinder041
+    3300124: Cylinder042
+    3300126: Cylinder043
+    3300128: Cylinder044
+    3300130: Cylinder092
+    3300132: Line002
+    3300134: Line032
+    3300136: Line033
+    3300138: Object001
+    3300140: OilTank001
+    3300142: OilTank002
+    3300144: Text002
+    3300146: Text003
+    3300148: Text004
+    3300150: Text005
+    4300000: Cylinder0021
+    4300002: Cylinder0041
+    4300004: Cylinder0051
+    4300006: Cylinder0061
+    4300008: Cylinder0071
+    4300010: Cylinder0081
+    4300012: Cylinder0091
+    4300014: Cylinder010
+    4300016: Cylinder011
+    4300018: Cylinder012
+    4300020: Cylinder013
+    4300022: Cylinder014
+    4300024: Cylinder015
+    4300026: Cylinder016
+    4300028: Cylinder017
+    4300030: Cylinder018
+    4300032: Cylinder019
+    4300034: Cylinder020
+    4300036: Cylinder021
+    4300038: Cylinder022
+    4300040: Cylinder023
+    4300042: Cylinder024
+    4300044: Cylinder025
+    4300046: Cylinder026
+    4300048: Cylinder027
+    4300050: Cylinder028
+    4300052: Cylinder029
+    4300054: Cylinder030
+    4300056: Cylinder031
+    4300058: Cylinder032
+    4300060: Cylinder033
+    4300062: Cylinder034
+    4300064: Cylinder035
+    4300066: Cylinder036
+    4300068: Cylinder037
+    4300070: Cylinder038
+    4300072: Cylinder039
+    4300074: Cylinder041
+    4300076: Cylinder040
+    4300078: Cylinder042
+    4300080: Cylinder043
+    4300082: Cylinder044
+    4300084: Box003
+    4300086: Box004
+    4300088: ChamferBox001
+    4300090: ChamferBox002
+    4300092: Box001
+    4300094: Cylinder001
+    4300096: ChamferBox001
+    4300098: Line032
+    4300100: Line033
+    4300102: Box002
+    4300104: Text002
+    4300106: Text003
+    4300108: Cylinder003
+    4300110: Box003
+    4300112: Cylinder004
+    4300114: Box004
+    4300116: Text004
+    4300118: Text005
+    4300120: Box005
+    4300122: Cylinder006
+    4300124: Cylinder005
+    4300126: Cylinder092
+    4300128: Box001
+    4300130: OilTank002
+    4300132: ChamferCyl001
+    4300134: Line002
+    4300136: Cylinder002
+    4300138: ChamferCyl002
+    4300140: OilTank001
+    4300142: Cylinder001
+    4300144: Object001
+    4300146: Cylinder004
+    4300148: Cylinder001
+    4300150: Box002
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

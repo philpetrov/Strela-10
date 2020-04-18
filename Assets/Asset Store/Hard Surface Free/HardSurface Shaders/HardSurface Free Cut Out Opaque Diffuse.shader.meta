@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: cb12cd65b57fc4f49a843285a946f235
+timeCreated: 1443405760
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _Cube: {instanceID: 0}
+  - _MainTex: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 71c5e241946c4244bbbaa4dc5e3b969e
+timeCreated: 1467881573
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box001
+    100002: ChamferCyl025
+    100004: ChamferCyl026
+    100006: Cylinder001
+    100008: Cylinder002
+    100010: Cylinder003
+    100012: Cylinder004
+    100014: Cylinder005
+    100016: //RootNode
+    100018: "\u0427"
+    100020: "\u0431\u0443\u043A\u0432\u044B"
+    100022: "\u0431\u0443\u043A\u0432\u044B001"
+    100024: "\u0431\u0443\u043A\u0432\u044B002"
+    100026: "\u0431\u0443\u043A\u0432\u044B003"
+    100028: "\u0431\u0443\u043A\u0432\u044B004"
+    100030: "\u0431\u0443\u043A\u0432\u044B005"
+    400000: Box001
+    400002: ChamferCyl025
+    400004: ChamferCyl026
+    400006: Cylinder001
+    400008: Cylinder002
+    400010: Cylinder003
+    400012: Cylinder004
+    400014: Cylinder005
+    400016: //RootNode
+    400018: "\u0427"
+    400020: "\u0431\u0443\u043A\u0432\u044B"
+    400022: "\u0431\u0443\u043A\u0432\u044B001"
+    400024: "\u0431\u0443\u043A\u0432\u044B002"
+    400026: "\u0431\u0443\u043A\u0432\u044B003"
+    400028: "\u0431\u0443\u043A\u0432\u044B004"
+    400030: "\u0431\u0443\u043A\u0432\u044B005"
+    2300000: Box001
+    2300002: ChamferCyl025
+    2300004: ChamferCyl026
+    2300006: Cylinder001
+    2300008: Cylinder002
+    2300010: Cylinder003
+    2300012: Cylinder004
+    2300014: Cylinder005
+    2300016: "\u0431\u0443\u043A\u0432\u044B"
+    2300018: "\u0431\u0443\u043A\u0432\u044B001"
+    2300020: "\u0431\u0443\u043A\u0432\u044B002"
+    2300022: "\u0431\u0443\u043A\u0432\u044B003"
+    2300024: "\u0431\u0443\u043A\u0432\u044B004"
+    2300026: "\u0431\u0443\u043A\u0432\u044B005"
+    3300000: Box001
+    3300002: ChamferCyl025
+    3300004: ChamferCyl026
+    3300006: Cylinder001
+    3300008: Cylinder002
+    3300010: Cylinder003
+    3300012: Cylinder004
+    3300014: Cylinder005
+    3300016: "\u0431\u0443\u043A\u0432\u044B"
+    3300018: "\u0431\u0443\u043A\u0432\u044B001"
+    3300020: "\u0431\u0443\u043A\u0432\u044B002"
+    3300022: "\u0431\u0443\u043A\u0432\u044B003"
+    3300024: "\u0431\u0443\u043A\u0432\u044B004"
+    3300026: "\u0431\u0443\u043A\u0432\u044B005"
+    4300000: ChamferCyl026
+    4300002: ChamferCyl025
+    4300004: "\u0431\u0443\u043A\u0432\u044B"
+    4300006: "\u0431\u0443\u043A\u0432\u044B001"
+    4300008: "\u0431\u0443\u043A\u0432\u044B002"
+    4300010: "\u0431\u0443\u043A\u0432\u044B003"
+    4300012: "\u0431\u0443\u043A\u0432\u044B004"
+    4300014: Cylinder001
+    4300016: Cylinder002
+    4300018: Cylinder003
+    4300020: Cylinder004
+    4300022: Cylinder005
+    4300024: Box001
+    4300026: "\u0431\u0443\u043A\u0432\u044B005"
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 7b32b297f1286cd4da43680c5059b722
+timeCreated: 1444217498
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bip001 Footsteps
+    100002: Bip001 HeadNub
+    100004: Bip001 L Finger0Nub
+    100006: Bip001 L Finger1Nub
+    100008: Bip001 L Finger2Nub
+    100010: Bip001 L Finger3Nub
+    100012: Bip001 L Finger4Nub
+    100014: Bip001 L Toe0Nub
+    100016: Bip001 R Finger0Nub
+    100018: Bip001 R Finger1Nub
+    100020: Bip001 R Finger2Nub
+    100022: Bip001 R Finger3Nub
+    100024: Bip001 R Finger4Nub
+    100026: Bip001 R Toe0Nub
+    100028: Bip002 Footsteps
+    100030: Bip002 HeadNub
+    100032: Bip002 L Finger0Nub
+    100034: Bip002 L Finger1Nub
+    100036: Bip002 L Finger2Nub
+    100038: Bip002 L Finger3Nub
+    100040: Bip002 L Finger4Nub
+    100042: Bip002 L Toe0Nub
+    100044: Bip002 R Finger0Nub
+    100046: Bip002 R Finger1Nub
+    100048: Bip002 R Finger2Nub
+    100050: Bip002 R Finger3Nub
+    100052: Bip002 R Finger4Nub
+    100054: Bip002 R Toe0Nub
+    100056: Bip003 Footsteps
+    100058: Bip003 HeadNub
+    100060: Bip003 L Finger0Nub
+    100062: Bip003 L Finger1Nub
+    100064: Bip003 L Finger2Nub
+    100066: Bip003 L Finger3Nub
+    100068: Bip003 L Finger4Nub
+    100070: Bip003 L Toe0Nub
+    100072: Bip003 R Finger0Nub
+    100074: Bip003 R Finger1Nub
+    100076: Bip003 R Finger2Nub
+    100078: Bip003 R Finger3Nub
+    100080: Bip003 R Finger4Nub
+    100082: Bip003 R Toe0Nub
+    100084: Cylinder018
+    100086: mesh06
+    100088: mesh09
+    100090: Object005
+    100092: //RootNode
+    400000: Bip001 Footsteps
+    400002: Bip001 HeadNub
+    400004: Bip001 L Finger0Nub
+    400006: Bip001 L Finger1Nub
+    400008: Bip001 L Finger2Nub
+    400010: Bip001 L Finger3Nub
+    400012: Bip001 L Finger4Nub
+    400014: Bip001 L Toe0Nub
+    400016: Bip001 R Finger0Nub
+    400018: Bip001 R Finger1Nub
+    400020: Bip001 R Finger2Nub
+    400022: Bip001 R Finger3Nub
+    400024: Bip001 R Finger4Nub
+    400026: Bip001 R Toe0Nub
+    400028: Bip002 Footsteps
+    400030: Bip002 HeadNub
+    400032: Bip002 L Finger0Nub
+    400034: Bip002 L Finger1Nub
+    400036: Bip002 L Finger2Nub
+    400038: Bip002 L Finger3Nub
+    400040: Bip002 L Finger4Nub
+    400042: Bip002 L Toe0Nub
+    400044: Bip002 R Finger0Nub
+    400046: Bip002 R Finger1Nub
+    400048: Bip002 R Finger2Nub
+    400050: Bip002 R Finger3Nub
+    400052: Bip002 R Finger4Nub
+    400054: Bip002 R Toe0Nub
+    400056: Bip003 Footsteps
+    400058: Bip003 HeadNub
+    400060: Bip003 L Finger0Nub
+    400062: Bip003 L Finger1Nub
+    400064: Bip003 L Finger2Nub
+    400066: Bip003 L Finger3Nub
+    400068: Bip003 L Finger4Nub
+    400070: Bip003 L Toe0Nub
+    400072: Bip003 R Finger0Nub
+    400074: Bip003 R Finger1Nub
+    400076: Bip003 R Finger2Nub
+    400078: Bip003 R Finger3Nub
+    400080: Bip003 R Finger4Nub
+    400082: Bip003 R Toe0Nub
+    400084: Cylinder018
+    400086: mesh06
+    400088: mesh09
+    400090: Object005
+    400092: //RootNode
+    2300000: Cylinder018
+    2300002: mesh06
+    2300004: mesh09
+    3300000: Cylinder018
+    3300002: mesh06
+    3300004: mesh09
+    4300000: mesh06
+    4300002: mesh09
+    4300004: Object005
+    4300006: Cylinder018
+    9500000: //RootNode
+    13700000: Object005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

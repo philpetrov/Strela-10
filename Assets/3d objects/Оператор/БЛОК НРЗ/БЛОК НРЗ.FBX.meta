@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: f3fbc936dc333e747be032fa6790c579
+timeCreated: 1444957781
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Cone001
+    100004: Cone002
+    100006: Cylinder001
+    100008: Cylinder001 1
+    100010: Cylinder002
+    100012: Line032
+    100014: Line033
+    100016: Torus001
+    100018: Torus002
+    100020: Torus003
+    100022: Tube001
+    100024: //RootNode
+    100026: "\u0431\u0443\u043A\u0432\u044B"
+    100028: "\u0431\u0443\u043A\u0432\u044B002"
+    100030: "\u0431\u0443\u043A\u0432\u044B003"
+    100032: "\u0431\u0443\u043A\u0432\u044B004"
+    100034: "\u0431\u0443\u043A\u0432\u044B005"
+    100036: "\u0431\u0443\u043A\u0432\u044B007"
+    100038: "\u0431\u0443\u043A\u0432\u044B008"
+    100040: "\u0431\u0443\u043A\u0432\u044B009"
+    100042: "\u0431\u0443\u043A\u0432\u044B010"
+    100044: "\u0431\u0443\u043A\u0432\u044B011"
+    100046: "\u0431\u0443\u043A\u0432\u044B012"
+    100048: "\u0431\u0443\u043A\u0432\u044B013"
+    100050: "\u0431\u0443\u043A\u0432\u044B014"
+    100052: "\u0431\u0443\u043A\u0432\u044B015"
+    100054: "\u0431\u0443\u043A\u0432\u044B016"
+    100056: "\u0431\u0443\u043A\u0432\u044B017"
+    100058: "\u0440\u0435\u0433\u0443\u043B\u044F\u0442\u043E\u0440"
+    100060: "\u0442\u0443\u043C\u0431\u043B\u0435\u0440"
+    400000: Box001
+    400002: Cone001
+    400004: Cone002
+    400006: Cylinder001
+    400008: Cylinder001 1
+    400010: Cylinder002
+    400012: Line032
+    400014: Line033
+    400016: Torus001
+    400018: Torus002
+    400020: Torus003
+    400022: Tube001
+    400024: //RootNode
+    400026: "\u0431\u0443\u043A\u0432\u044B"
+    400028: "\u0431\u0443\u043A\u0432\u044B002"
+    400030: "\u0431\u0443\u043A\u0432\u044B003"
+    400032: "\u0431\u0443\u043A\u0432\u044B004"
+    400034: "\u0431\u0443\u043A\u0432\u044B005"
+    400036: "\u0431\u0443\u043A\u0432\u044B007"
+    400038: "\u0431\u0443\u043A\u0432\u044B008"
+    400040: "\u0431\u0443\u043A\u0432\u044B009"
+    400042: "\u0431\u0443\u043A\u0432\u044B010"
+    400044: "\u0431\u0443\u043A\u0432\u044B011"
+    400046: "\u0431\u0443\u043A\u0432\u044B012"
+    400048: "\u0431\u0443\u043A\u0432\u044B013"
+    400050: "\u0431\u0443\u043A\u0432\u044B014"
+    400052: "\u0431\u0443\u043A\u0432\u044B015"
+    400054: "\u0431\u0443\u043A\u0432\u044B016"
+    400056: "\u0431\u0443\u043A\u0432\u044B017"
+    400058: "\u0440\u0435\u0433\u0443\u043B\u044F\u0442\u043E\u0440"
+    400060: "\u0442\u0443\u043C\u0431\u043B\u0435\u0440"
+    2300000: Box001
+    2300002: Cone001
+    2300004: Cone002
+    2300006: Cylinder001
+    2300008: Cylinder001 1
+    2300010: Cylinder002
+    2300012: Line032
+    2300014: Line033
+    2300016: Torus001
+    2300018: Torus002
+    2300020: Torus003
+    2300022: Tube001
+    2300024: "\u0431\u0443\u043A\u0432\u044B"
+    2300026: "\u0431\u0443\u043A\u0432\u044B002"
+    2300028: "\u0431\u0443\u043A\u0432\u044B003"
+    2300030: "\u0431\u0443\u043A\u0432\u044B004"
+    2300032: "\u0431\u0443\u043A\u0432\u044B005"
+    2300034: "\u0431\u0443\u043A\u0432\u044B007"
+    2300036: "\u0431\u0443\u043A\u0432\u044B008"
+    2300038: "\u0431\u0443\u043A\u0432\u044B009"
+    2300040: "\u0431\u0443\u043A\u0432\u044B010"
+    2300042: "\u0431\u0443\u043A\u0432\u044B011"
+    2300044: "\u0431\u0443\u043A\u0432\u044B012"
+    2300046: "\u0431\u0443\u043A\u0432\u044B013"
+    2300048: "\u0431\u0443\u043A\u0432\u044B014"
+    2300050: "\u0431\u0443\u043A\u0432\u044B015"
+    2300052: "\u0431\u0443\u043A\u0432\u044B016"
+    2300054: "\u0431\u0443\u043A\u0432\u044B017"
+    3300000: Box001
+    3300002: Cone001
+    3300004: Cone002
+    3300006: Cylinder001
+    3300008: Cylinder001 1
+    3300010: Cylinder002
+    3300012: Line032
+    3300014: Line033
+    3300016: Torus001
+    3300018: Torus002
+    3300020: Torus003
+    3300022: Tube001
+    3300024: "\u0431\u0443\u043A\u0432\u044B"
+    3300026: "\u0431\u0443\u043A\u0432\u044B002"
+    3300028: "\u0431\u0443\u043A\u0432\u044B003"
+    3300030: "\u0431\u0443\u043A\u0432\u044B004"
+    3300032: "\u0431\u0443\u043A\u0432\u044B005"
+    3300034: "\u0431\u0443\u043A\u0432\u044B007"
+    3300036: "\u0431\u0443\u043A\u0432\u044B008"
+    3300038: "\u0431\u0443\u043A\u0432\u044B009"
+    3300040: "\u0431\u0443\u043A\u0432\u044B010"
+    3300042: "\u0431\u0443\u043A\u0432\u044B011"
+    3300044: "\u0431\u0443\u043A\u0432\u044B012"
+    3300046: "\u0431\u0443\u043A\u0432\u044B013"
+    3300048: "\u0431\u0443\u043A\u0432\u044B014"
+    3300050: "\u0431\u0443\u043A\u0432\u044B015"
+    3300052: "\u0431\u0443\u043A\u0432\u044B016"
+    3300054: "\u0431\u0443\u043A\u0432\u044B017"
+    4300000: Line032
+    4300002: Line033
+    4300004: Cylinder001
+    4300006: Torus001
+    4300008: Tube001
+    4300010: "\u0431\u0443\u043A\u0432\u044B"
+    4300012: "\u0431\u0443\u043A\u0432\u044B002"
+    4300014: "\u0431\u0443\u043A\u0432\u044B003"
+    4300016: "\u0431\u0443\u043A\u0432\u044B004"
+    4300018: "\u0431\u0443\u043A\u0432\u044B005"
+    4300020: Cylinder002
+    4300022: Torus002
+    4300024: "\u0431\u0443\u043A\u0432\u044B007"
+    4300026: Cone001
+    4300028: "\u0431\u0443\u043A\u0432\u044B008"
+    4300030: "\u0431\u0443\u043A\u0432\u044B017"
+    4300032: "\u0431\u0443\u043A\u0432\u044B009"
+    4300034: "\u0431\u0443\u043A\u0432\u044B010"
+    4300036: "\u0431\u0443\u043A\u0432\u044B011"
+    4300038: "\u0431\u0443\u043A\u0432\u044B012"
+    4300040: "\u0431\u0443\u043A\u0432\u044B013"
+    4300042: Torus003
+    4300044: "\u0431\u0443\u043A\u0432\u044B014"
+    4300046: Box001
+    4300048: "\u0431\u0443\u043A\u0432\u044B015"
+    4300050: Cone002
+    4300052: "\u0431\u0443\u043A\u0432\u044B016"
+    4300054: Cylinder001
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

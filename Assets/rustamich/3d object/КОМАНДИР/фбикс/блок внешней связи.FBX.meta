@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 3770696881e686246b93d45c8f9a36d0
+timeCreated: 1467363285
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box001
+    100002: ChamferCyl025
+    100004: ChamferCyl026
+    100006: ChamferCyl027
+    100008: ChamferCyl028
+    100010: ChamferCyl029
+    100012: Cylinder002
+    100014: Cylinder003
+    100016: Cylinder004
+    100018: Cylinder005
+    100020: Group001
+    100022: "\u0427"
+    100024: //RootNode
+    100026: "\u0431\u0443\u043A\u0432\u044B008"
+    100028: "\u0431\u0443\u043A\u0432\u044B009"
+    100030: "\u0431\u0443\u043A\u0432\u044B010"
+    100032: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A002"
+    100034: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A003"
+    100036: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A004"
+    100038: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A005"
+    400000: Box001
+    400002: ChamferCyl025
+    400004: ChamferCyl026
+    400006: ChamferCyl027
+    400008: ChamferCyl028
+    400010: ChamferCyl029
+    400012: Cylinder002
+    400014: Cylinder003
+    400016: Cylinder004
+    400018: Cylinder005
+    400020: Group001
+    400022: "\u0427"
+    400024: //RootNode
+    400026: "\u0431\u0443\u043A\u0432\u044B008"
+    400028: "\u0431\u0443\u043A\u0432\u044B009"
+    400030: "\u0431\u0443\u043A\u0432\u044B010"
+    400032: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A002"
+    400034: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A003"
+    400036: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A004"
+    400038: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A005"
+    2300000: Box001
+    2300002: ChamferCyl025
+    2300004: ChamferCyl026
+    2300006: ChamferCyl027
+    2300008: ChamferCyl028
+    2300010: ChamferCyl029
+    2300012: Cylinder002
+    2300014: Cylinder003
+    2300016: Cylinder004
+    2300018: Cylinder005
+    2300020: "\u0431\u0443\u043A\u0432\u044B008"
+    2300022: "\u0431\u0443\u043A\u0432\u044B009"
+    2300024: "\u0431\u0443\u043A\u0432\u044B010"
+    2300026: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A002"
+    2300028: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A003"
+    2300030: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A004"
+    2300032: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A005"
+    3300000: Box001
+    3300002: ChamferCyl025
+    3300004: ChamferCyl026
+    3300006: ChamferCyl027
+    3300008: ChamferCyl028
+    3300010: ChamferCyl029
+    3300012: Cylinder002
+    3300014: Cylinder003
+    3300016: Cylinder004
+    3300018: Cylinder005
+    3300020: "\u0431\u0443\u043A\u0432\u044B008"
+    3300022: "\u0431\u0443\u043A\u0432\u044B009"
+    3300024: "\u0431\u0443\u043A\u0432\u044B010"
+    3300026: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A002"
+    3300028: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A003"
+    3300030: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A004"
+    3300032: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A005"
+    4300000: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A002"
+    4300002: Cylinder004
+    4300004: Cylinder003
+    4300006: Cylinder002
+    4300008: ChamferCyl026
+    4300010: ChamferCyl025
+    4300012: Box001
+    4300014: Cylinder005
+    4300016: ChamferCyl027
+    4300018: ChamferCyl028
+    4300020: ChamferCyl029
+    4300022: "\u0431\u0443\u043A\u0432\u044B008"
+    4300024: "\u0431\u0443\u043A\u0432\u044B009"
+    4300026: "\u0431\u0443\u043A\u0432\u044B010"
+    4300028: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A003"
+    4300030: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A004"
+    4300032: "\u043A\u0440\u0443\u0433\u043B\u044F\u043A005"
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
